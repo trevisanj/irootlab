@@ -1,0 +1,2 @@
+- change MATLAB current folder to where this file is
+- type "startup" at MATLAB command window

@@ -1,0 +1,2 @@
+@rem Windows starter
+matlab

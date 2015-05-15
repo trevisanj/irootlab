@@ -1,0 +1,265 @@
+<html>
+<head>
+<title>IRootLab Demo Menu</title>
+<style>
+h1 {font-family: Times New Roman, serif; font-size:18pt; font-weight: bold; text-align: center;}
+h2 {font-family: Times New Roman, serif; font-size:15pt; font-weight: bold; text-align: center;}
+h3 {font-family: Times New Roman, serif; font-size:14pt; font-weight: bold; text-align: center;}
+h4 {font-family: Times New Roman, serif; font-size:13pt; font-weight: bold; text-align: center;}
+h5 {font-family: Times New Roman, serif; font-size:12pt; font-weight: bold; text-align: center;}
+td {font-family: Times New Roman; padding: 3px}
+td {border: 0; border-collapse: collapse; border-spacing: 0px; }
+td {padding: 4px;}
+.nu, .tdnu {text-align: right}
+.her {text-align: right; font-weight: bold;}
+.hel, .tdle {text-align: left; font-weight: bold;}
+.hec, .tdhe {text-align: center; font-weight: bold;}
+.ce {text-align: center;}
+.ri {text-aligh: right;}
+.sma {font-size: 9pt;}
+.nobo {border: 0}
+.bo {border: 2px solid black; border-collapse: collapse; border-spacing: 0px;}
+.bob {border-collapse: collapse; border-spacing: 0px; border-bottom-style: solid; border-bottom-width: 2}
+.bob1 {border-collapse: collapse; border-spacing: 0px; border-bottom-style: solid; border-bottom-width: 1}
+.bor {border-collapse: collapse; border-spacing: 0px; border-right-style: solid; border-right-width: 2}
+.bobbor {border-collapse: collapse; border-spacing: 0px; border-bottom-style: solid; border-bottom-width: 2; border-right-style: solid; border-right-width: 2}
+.backbet {background-color: #d8ffd8}
+.foresig {font-weight: bold; color: #004000}
+.helchoa {text-align: left;font-weight: bold; background-color: #800000; color: #fefefe;}
+.nuchoa {text-align: right; font-weight: bold; background-color: #800000; color: #fefefe;}
+</style>
+
+
+<body>
+<style>
+h1 {font-family: Times New Roman, serif; font-size:18pt; font-weight: bold; text-align: center;}
+h2 {font-family: Times New Roman, serif; font-size:15pt; font-weight: bold; text-align: center;}
+h3 {font-family: Times New Roman, serif; font-size:14pt; font-weight: bold; text-align: center;}
+h4 {font-family: Times New Roman, serif; font-size:13pt; font-weight: bold; text-align: center;}
+h5 {font-family: Times New Roman, serif; font-size:12pt; font-weight: bold; text-align: center;}
+td {font-family: Times New Roman; padding: 3px}
+td {border: 0; border-collapse: collapse; border-spacing: 0px; }
+td {padding: 4px;}
+.nu, .tdnu {text-align: right}
+.her {text-align: right; font-weight: bold;}
+.hel, .tdle {text-align: left; font-weight: bold;}
+.hec, .tdhe {text-align: center; font-weight: bold;}
+.ce {text-align: center;}
+.ri {text-aligh: right;}
+.sma {font-size: 9pt;}
+.nobo {border: 0}
+.bo {border: 2px solid black; border-collapse: collapse; border-spacing: 0px;}
+.bob {border-collapse: collapse; border-spacing: 0px; border-bottom-style: solid; border-bottom-width: 2}
+.bob1 {border-collapse: collapse; border-spacing: 0px; border-bottom-style: solid; border-bottom-width: 1}
+.bor {border-collapse: collapse; border-spacing: 0px; border-right-style: solid; border-right-width: 2}
+.bobbor {border-collapse: collapse; border-spacing: 0px; border-bottom-style: solid; border-bottom-width: 2; border-right-style: solid; border-right-width: 2}
+.backbet {background-color: #d8ffd8}
+.foresig {font-weight: bold; color: #004000}
+.helchoa {text-align: left;font-weight: bold; background-color: #800000; color: #fefefe;}
+.nuchoa {text-align: right; font-weight: bold; background-color: #800000; color: #fefefe;}
+</style>
+
+<body bgcolor=#c6e8e0><h1>IRootLab demos</h1><center>
+<p>The following examples demonstrate the use of IRootLab library to analyse data and generate figures. The directories are roughly organized by dataset.
+</p><table class = nobo>
+<tr>
+<td valign=top><br /><b>DATA_ARTIFICIAL</b></td><td valign=top><br /><b>2-feature dataset created using <i>gendata</i>. Most demos here show 2-dimensional classification regions
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_bagging_svm')">DEMO_BAGGING_SVM</a></td><td valign=top> Bagging example using SVM classifier and drawing classification regions.
+&nbsp;<a href="matlab:help2('demo_bagging_svm.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_bagging_svm.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_clssr_d')">DEMO_CLSSR_D</a></td><td valign=top> Draws classification regions for classifiers LDC/QDC
+&nbsp;<a href="matlab:help2('demo_clssr_d.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_clssr_d.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_clssr_knn')">DEMO_CLSSR_KNN</a></td><td valign=top> Draws classification regions for classifier k-NN
+&nbsp;<a href="matlab:help2('demo_clssr_knn.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_clssr_knn.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_clssr_tree')">DEMO_CLSSR_TREE</a></td><td valign=top> Draws classification regions for the Tree classifier
+&nbsp;<a href="matlab:help2('demo_clssr_tree.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_clssr_tree.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_eclass_animation')">DEMO_ECLASS_ANIMATION</a></td><td valign=top> Shows evolution of classifier eClass, saves animated GIF.
+&nbsp;<a href="matlab:help2('demo_eclass_animation.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_eclass_animation.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_eclass_artificial')">DEMO_ECLASS_ARTIFICIAL</a></td><td valign=top> Draws classification regions for classifier eClass
+&nbsp;<a href="matlab:help2('demo_eclass_artificial.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_eclass_artificial.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>DATA_BRAIN</b></td><td valign=top><br /><b>Ketan's brain cancer dataset, no=439, nf=235, 3 classes
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_rater_brain')">DEMO_RATER_BRAIN</a></td><td valign=top>  Classification of Brain data using LDC classifier, leave-one-out cross-validation
+&nbsp;<a href="matlab:help2('demo_rater_brain.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_rater_brain.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_u_test_per_wavenumber')">DEMO_U_TEST_PER_WAVENUMBER</a></td><td valign=top>  U-test per wavenumber is performed for one-versus-one datasets (2-class datasets)
+&nbsp;<a href="matlab:help2('demo_u_test_per_wavenumber.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_u_test_per_wavenumber.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>DATA_SHE</b></td><td valign=top><br /><b>Syrian Hamster Embryo (SHE) assay dataset, 2 class levels: &lt;chemical&gt;|&lt;transformation&gt;; 5 * 2 = 10 classes; no=600; nf=58
+</b></td>
+</tr>
+<tr>
+<td valign=top><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>BOTH</b></td><td valign=top><br /><b>Use both levels of SHE dataset in the analysis
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_bmtable')">DEMO_BMTABLE</a></td><td valign=top> Biomarkers of Non-transformed vs. Transformed, separated by Chemical
+&nbsp;<a href="matlab:help2('demo_bmtable.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_bmtable.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_deciders_and_grags')">DEMO_DECIDERS_AND_GRAGS</a></td><td valign=top> Different ways to use per-spectrum prediction aggregation (grag), and decision thresholds (decider)
+&nbsp;<a href="matlab:help2('demo_deciders_and_grags.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_deciders_and_grags.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>CHEMICALS</b></td><td valign=top><br /><b>Analyses using class level 1 only: {'B[a]P', '3-MCA', 'Ant', '2,4dT', 'o-T'}
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_crosscalculated_lda')">DEMO_CROSSCALCULATED_LDA</a></td><td valign=top> Cross-calculated LDA scores
+&nbsp;<a href="matlab:help2('demo_crosscalculated_lda.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_crosscalculated_lda.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_pcalda')">DEMO_PCALDA</a></td><td valign=top>  PCA-LDA demo, scores plots, cluster vectors
+&nbsp;<a href="matlab:help2('demo_pcalda.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_pcalda.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_rater')">DEMO_RATER</a></td><td valign=top> Classification of Chemicals using LDC and cross-validation
+&nbsp;<a href="matlab:help2('demo_rater.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_rater.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>TRANSFORMATION</b></td><td valign=top><br /><b>Analyses using class level 2 only: {'Non-transformed', 'Transformed'}
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_as_dsperc_x_rate')">DEMO_AS_DSPERC_X_RATE</a></td><td valign=top> (dataset %) x (classification rate %) curve to check sample size
+&nbsp;<a href="matlab:help2('demo_as_dsperc_x_rate.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_as_dsperc_x_rate.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_does_bagging_help')">DEMO_DOES_BAGGING_HELP</a></td><td valign=top> Tracking the improvement of classification with addition of component classifiers
+&nbsp;<a href="matlab:help2('demo_does_bagging_help.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_does_bagging_help.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_factorscurve')">DEMO_FACTORSCURVE</a></td><td valign=top>  (number of factors)X(Classification rate) curve
+&nbsp;<a href="matlab:help2('demo_factorscurve.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_factorscurve.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_feature_histogram_colors')">DEMO_FEATURE_HISTOGRAM_COLORS</a></td><td valign=top>  Shows different ways to paint the same Feature Histogram
+&nbsp;<a href="matlab:help2('demo_feature_histogram_colors.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_feature_histogram_colors.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_forward')">DEMO_FORWARD</a></td><td valign=top>  Forward feature selection demo
+&nbsp;<a href="matlab:help2('demo_forward.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_forward.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_gridsearch_knn_and_pca')">DEMO_GRIDSEARCH_KNN_AND_PCA</a></td><td valign=top> Combined optimization of PCA number of factors & k-NN k
+&nbsp;<a href="matlab:help2('demo_gridsearch_knn_and_pca.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_gridsearch_knn_and_pca.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_gridsearch_knn_k')">DEMO_GRIDSEARCH_KNN_K</a></td><td valign=top> Grid search to obtain best k-NN's k
+&nbsp;<a href="matlab:help2('demo_gridsearch_knn_k.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_gridsearch_knn_k.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_gridsearch_pca_discriminant')">DEMO_GRIDSEARCH_PCA_DISCRIMINANT</a></td><td valign=top> Grid search to simultaneously optimize (PCA number of factors) x ('linear'/'quadratic')
+&nbsp;<a href="matlab:help2('demo_gridsearch_pca_discriminant.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_gridsearch_pca_discriminant.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>DATA_WINE</b></td><td valign=top><br /><b>Wine dataset from UCI repository - <a href=http://archive.ics.uci.edu/ml/datasets/Wine>http://archive.ics.uci.edu/ml/datasets/Wine</a>; no=178; nf=13; nc=3
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_eclass_incremental_learning')">DEMO_ECLASS_INCREMENTAL_LEARNING</a></td><td valign=top>  Increase of classification rate as eClass is incrementally trained
+&nbsp;<a href="matlab:help2('demo_eclass_incremental_learning.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_eclass_incremental_learning.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_svm_c_gamma')">DEMO_SVM_C_GAMMA</a></td><td valign=top> Grid search optimization of SVM (C, gamma) (Gaussian Kernel)
+&nbsp;<a href="matlab:help2('demo_svm_c_gamma.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_svm_c_gamma.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>INTROSPECTION</b></td><td valign=top><br /><b>Self-checking of IRootLab directory
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_classes_html')">DEMO_CLASSES_HTML</a></td><td valign=top>  Generates IRootLab classes hierarchical tree in HTML, using object colors.
+&nbsp;<a href="matlab:help2('demo_classes_html.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_classes_html.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_classes_txt')">DEMO_CLASSES_TXT</a></td><td valign=top> Creates a CSV file with a list of classes, similar to what is seen in blockmenu.m
+&nbsp;<a href="matlab:help2('demo_classes_txt.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_classes_txt.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>OTHER_DATA</b></td><td valign=top><br /><b>Others and other data
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_import_fisheriris')">DEMO_IMPORT_FISHERIRIS</a></td><td valign=top>  Shows how to assemble a dataset from existing MATLAB matrices (Fisher Iris data example)
+&nbsp;<a href="matlab:help2('demo_import_fisheriris.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_import_fisheriris.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>PREPROCESSING</b></td><td valign=top><br /><b>Pre-processing demos
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_pre_bc_rubber')">DEMO_PRE_BC_RUBBER</a></td><td valign=top>  Demonstrates the Convex Polynomial Line baseline correction
+&nbsp;<a href="matlab:help2('demo_pre_bc_rubber.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_pre_bc_rubber.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('demo_raman_preprocess')">DEMO_RAMAN_PREPROCESS</a></td><td valign=top> Pre-processing of Raman data: Wavelet-De-noising, Polynomial Baseline Correction, Vector Normalization
+&nbsp;<a href="matlab:help2('demo_raman_preprocess.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('demo_raman_preprocess.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top><br /><b>SAMPLEDATA</b></td><td valign=top><br /><b>Datasets included with IRootLab releases. After clicking on file, new dataset can be handled in <a href="matlab: objtool">objtool</a>
+</b></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('irootlab_setup')">IROOTLAB_SETUP</a></td><td valign=top>%      V V
+&nbsp;<a href="matlab:help2('irootlab_setup.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('irootlab_setup.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_hint')">LOAD_DATA_HINT</a></td><td valign=top> Loads the hint dataset: this dataset containg one spectrum only: 1800-900 cm^-1
+&nbsp;<a href="matlab:help2('load_data_hint.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_hint.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_ketan_brain_atr')">LOAD_DATA_KETAN_BRAIN_ATR</a></td><td valign=top> Loads Ketan's brain cancer dataset
+&nbsp;<a href="matlab:help2('load_data_ketan_brain_atr.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_ketan_brain_atr.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_matt_nanoparticles_synchrotron')">LOAD_DATA_MATT_NANOPARTICLES_SYNCHROTRON</a></td><td valign=top> Loads Matt's synchrotron data (5 spectra only)
+&nbsp;<a href="matlab:help2('load_data_matt_nanoparticles_synchrotron.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_matt_nanoparticles_synchrotron.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_raman_sample')">LOAD_DATA_RAMAN_SAMPLE</a></td><td valign=top> Loads sample data raman_sample.mat
+&nbsp;<a href="matlab:help2('load_data_raman_sample.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_raman_sample.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_she5trays')">LOAD_DATA_SHE5TRAYS</a></td><td valign=top> Loads sample data she5trays.mat
+&nbsp;<a href="matlab:help2('load_data_she5trays.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_she5trays.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_uci_wine')">LOAD_DATA_UCI_WINE</a></td><td valign=top> Loads sample data userdata_nc2nf2.txt
+&nbsp;<a href="matlab:help2('load_data_uci_wine.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_uci_wine.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_uglyspectrum')">LOAD_DATA_UGLYSPECTRUM</a></td><td valign=top> Loads sample data uglyspectrum.mat
+&nbsp;<a href="matlab:help2('load_data_uglyspectrum.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_uglyspectrum.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('load_data_userdata_nc2nf2')">LOAD_DATA_USERDATA_NC2NF2</a></td><td valign=top> Loads sample data userdata_nc2nf2.txt
+&nbsp;<a href="matlab:help2('load_data_userdata_nc2nf2.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('load_data_userdata_nc2nf2.m')">&rarr;</a></td>
+</tr>
+<tr>
+<td valign=top>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="matlab: open_demo('sampledata_view_all')">SAMPLEDATA_VIEW_ALL</a></td><td valign=top> Plots all sample datasets in separate figures
+&nbsp;<a href="matlab:help2('sampledata_view_all.m')">\|/</a>&nbsp;&nbsp;<a href="matlab:edit('sampledata_view_all.m')">&rarr;</a></td>
+</tr>
+</table>
+</center></body>
+
+</body>
+</html>

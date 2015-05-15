@@ -1,0 +1,45 @@
+%> @ingroup guigroup
+%> @file
+%> @brief Draws datasets in orhistgui
+function orhistgui_view2()
+
+global FONTSIZE;
+temp = FONTSIZE;
+
+try
+    sdata = listbox_get_selected_1stname(handles_orhistgui.popupmenu_data);
+    if isempty(sdata)
+        irerror('Dataset not specified!');
+    end;
+    data = evalin('base', [sdata, ';']);
+    
+    % Makes a dataset with the removed rows
+    blk = handles_orhistgui.remover;
+    
+    if data.no ~= blk.no
+        irerror(sprintf('Selected dataset has an incompatible number of rows: actual: %d; expected: %d', data.no, blk.no));
+    end;
+    
+    map_out = 1:data.no;
+    map_out(blk.map) = [];
+    dsin = data.map_rows(blk.map);
+    dsout = data.map_rows(map_out);
+    
+    FONTSIZE = 15; %#ok<*NASGU>
+    ov = vis_alldata();
+    
+    axes(handles_orhistgui.axes2); %#ok<*MAXES>
+    hold off;
+    ov.use(dsin);
+    title('Rows remaining');
+
+    axes(handles_orhistgui.axes3);
+    hold off;
+    ov.use(dsout);
+    title('Rows removed');
+
+    FONTSIZE = temp;
+catch ME
+    FONTSIZE = temp;
+    send_error(ME);
+end;
