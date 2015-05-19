@@ -12,25 +12,27 @@ A demonstration page can be opened through @c browse_demos.
 
 IRootLab is Free/Libre and Open-Source software, released under the LGPL licence.
 
-Official website: http://irootlab.googlecode.com
+GitHub repository: http://github.com/trevisanj/irootlab
+Official website: http://trevisanj.github.io/irootlab
 
-@section thisdoc This Website
+@section thisdoc This documentation
 
-This is a file reference. For a friendly start to IRootLab, please check below or at http://code.google.com/p/irootlab/downloads/list.
+This is a programmers' reference website automatically generated from the MATLAB sources using Doxygen.
+For a manuals and tutorials, please got to the official website.
 
 This Doxygen-generated website is the official documentation of the IRootLab class and function library (*.m).
 This documentation contains reference pages on individual .m files within the IRootLab directory.
 It can be consulted by direct search (top right), or navigation (left). IRootLab classes are hierarchically organized (left). All files inside the "misc" directory, and some others, have been tentatively grouped into "modules" (left).
 
-The online version of this site (at http://bioph.lancs.ac.uk/irootlabdoc) is accessed by IRootLab for reference, for example:
-@arg Typing <code>help2('filename')</code> launchs a web browser with corresponding reference page on 'filename.m'.
+These pages for specific @c .m files can be also accessed from MATLAB in two ways:
+@arg Typing <code>help2('filename')</code> launchs a web browser with corresponding reference page on 'filename.m'
 @arg Pressing F1 at any GUI will launch the reference page on the source code of the GUI.
 
 
 @section gettingstarted Quick getting started
 
 <ol>
-  <li> Download the most recent ZIP file from http://code.google.com/p/irootlab/downloads/list and extract the file into a directory of your choice
+  <li> Download the most recent ZIP file from the official website and extract the file into a directory of your choice
   <li> Start MATLAB </li>
   <li> Change MATLAB's "Current directory" to the one created above (which should contain a file called "startup.m")</li>
   <li> In MATLAB's command line, enter
