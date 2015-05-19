@@ -85,6 +85,52 @@ OPUS single spectrum files;
 OPUS image maps;
 Native .mat format. 
 </code></pre>
+
+<h3>
+<a id="quick-starter" class="anchor" href="#quick-starter" aria-hidden="true"><span class="octicon octicon-link"></span></a>Quick starter</h3>
+
+<ol>
+<li>Download the most recent ZIP file from the official website and extract the file into a directory of your 2. Start MATLAB
+3 Change MATLAB's "Current directory" to the one created above (which should contain a file called "startup.m")</li>
+<li>
+<p>In MATLAB's command line, enter</p>
+
+<p>startup</p>
+</li>
+<li><p>The 'welcome' message shown contains links for some features (suggestion: check browse_demos)</p></li>
+</ol>
+
+<h3>
+<a id="system-requirements" class="anchor" href="#system-requirements" aria-hidden="true"><span class="octicon octicon-link"></span></a>System requirements</h3>
+
+<h2>
+<a id="matlab" class="anchor" href="#matlab" aria-hidden="true"><span class="octicon octicon-link"></span></a>MATLAB</h2>
+
+<p>MATLAB (Windows/Linux/MacOS/etc), release &gt;= r2007b tested</p>
+
+<h2>
+<a id="specific-features" class="anchor" href="#specific-features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Specific features</h2>
+
+<p>Some routines contain "parfor" loops to speed up the process. To parallelize computation using parfor, the MATLAB Parallel Computing Toolbox (PCT)
+must be present. All routines that contain parfor loops can also run in serial mode without using the PCT.</p>
+
+<p>Wavelet de-noising: this feature makes function calls to MATLAB Wavelet Toolbox.</p>
+
+<h2>
+<a id="platform-specific-binaries" class="anchor" href="#platform-specific-binaries" aria-hidden="true"><span class="octicon octicon-link"></span></a>Platform-specific binaries</h2>
+
+<ul>
+<li>SVM classifier (LibSVM): LibSVM was successfully compiled for Windows 32-bit/Windows 64-bit; Linux 32-bit/64-bit.</li>
+<li>MySQL connector (mYm): mYm was currently compiled Windows 32-bit; Linux 32-bit/64-bit. Linux 64-bit: libmysqlclient.so.16 and  libmysqlclient.so.18.</li>
+</ul>
+
+<h3>
+<a id="downloads" class="anchor" href="#downloads" aria-hidden="true"><span class="octicon octicon-link"></span></a>Downloads</h3>
+
+<p><a href="http://trevisanj.github.io/irootlab/">http://trevisanj.github.io/irootlab/</a></p>
+
+<h2>
+<a id="tutorials" class="anchor" href="#tutorials" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tutorials</h2>
       </section>
       <footer>
         <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
