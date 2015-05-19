@@ -1,0 +1,6 @@
+<map id="clus" name="clus">
+<area shape="rect" id="node2" href="$classfcon.html" title="Feature Construction (FCon) base class. " alt="" coords="9,229,55,256"/>
+<area shape="rect" id="node3" href="$classfext.html" title="Feature Extraction (Fext) base class. " alt="" coords="10,155,53,181"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="5,80,59,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="9,5,55,32"/>
+</map>

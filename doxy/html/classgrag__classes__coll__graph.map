@@ -1,0 +1,7 @@
+<map id="grag_classes" name="grag_classes">
+<area shape="rect" id="node2" href="$classgrag.html" title="Group Aggregator &#45; combines data rows outputting one row per group. " alt="" coords="31,304,77,331"/>
+<area shape="rect" id="node3" href="$classrowaggr.html" title="rowaggr" alt="" coords="21,229,88,256"/>
+<area shape="rect" id="node4" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="25,155,84,181"/>
+<area shape="rect" id="node5" href="$classblock.html" title="Base Block class. " alt="" coords="28,80,81,107"/>
+<area shape="rect" id="node6" href="$classirobj.html" title="Base class. " alt="" coords="31,5,77,32"/>
+</map>

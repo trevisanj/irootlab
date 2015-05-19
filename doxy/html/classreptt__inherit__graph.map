@@ -1,0 +1,9 @@
+<map id="reptt" name="reptt">
+<area shape="rect" id="node5" href="$classreptt__bag.html" title="REPTT for bagging classifiers. " alt="" coords="5,304,80,331"/>
+<area shape="rect" id="node6" href="$classreptt__blockcube.html" title="REpeated Train&#45;Test &#45; Block Cube. " alt="" coords="105,304,220,331"/>
+<area shape="rect" id="node7" href="$classreptt__hiesplit.html" title="Hierarchical split. " alt="" coords="244,304,340,331"/>
+<area shape="rect" id="node8" href="$classreptt__incr.html" title="Incremental learning curve &#45; to test incremental classifiers. " alt="" coords="365,304,440,331"/>
+<area shape="rect" id="node2" href="$classas.html" title="Analysis Session (AS) base class. " alt="" coords="207,155,245,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="200,80,253,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="203,5,249,32"/>
+</map>

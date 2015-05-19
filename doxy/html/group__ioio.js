@@ -1,0 +1,28 @@
+var group__ioio =
+[
+    [ "gendata.m", "gendata_8m.html", null ],
+    [ "save_as_fig.m", "save__as__fig_8m.html", null ],
+    [ "save_as_png.m", "save__as__png_8m.html", null ],
+    [ "save_legend.m", "save__legend_8m.html", null ],
+    [ "assert_connected_to_cells.m", "assert__connected__to__cells_8m.html", null ],
+    [ "connect_to_cells.m", "connect__to__cells_8m.html", null ],
+    [ "db_assert.m", "db__assert_8m.html", null ],
+    [ "db_reset.m", "db__reset_8m.html", null ],
+    [ "detect_spectrum_type.m", "detect__spectrum__type_8m.html", null ],
+    [ "find_dirname.m", "find__dirname_8m.html", null ],
+    [ "find_filename.m", "find__filename_8m.html", null ],
+    [ "get_no_cols_deli.m", "get__no__cols__deli_8m.html", null ],
+    [ "misc/ioio/getdirs.m", "misc_2ioio_2getdirs_8m.html", null ],
+    [ "getfiles.m", "getfiles_8m.html", null ],
+    [ "good_filename.m", "good__filename_8m.html", null ],
+    [ "irquery.m", "irquery_8m.html", null ],
+    [ "load_all_items.m", "load__all__items_8m.html", null ],
+    [ "load_sampledata.m", "load__sampledata_8m.html", null ],
+    [ "load_soitem.m", "load__soitem_8m.html", null ],
+    [ "opus2data.m", "opus2data_8m.html", null ],
+    [ "pir2data.m", "pir2data_8m.html", null ],
+    [ "resolve_dir.m", "resolve__dir_8m.html", null ],
+    [ "wire2data.m", "wire2data_8m.html", null ],
+    [ "get_computer_name.m", "get__computer__name_8m.html", null ],
+    [ "guide_figs.m", "guide__figs_8m.html", null ]
+];

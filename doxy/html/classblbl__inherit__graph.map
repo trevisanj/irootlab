@@ -1,0 +1,7 @@
+<map id="blbl" name="blbl">
+<area shape="rect" id="node4" href="$classblbl__extract__cv.html" title="Extracts cluster vectors from block. " alt="" coords="5,237,115,264"/>
+<area shape="rect" id="node5" href="$classblbl__extract__ds__from__sovalues.html" title="Extracts dataset from sovalues. " alt="" coords="139,230,281,271"/>
+<area shape="rect" id="node6" href="$classsubsetsprocessor.html" title="Processor of a set of subsets of features. " alt="" coords="307,237,432,264"/>
+<area shape="rect" id="node2" href="$classblock.html" title="Base Block class. " alt="" coords="184,80,237,107"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="187,5,233,32"/>
+</map>

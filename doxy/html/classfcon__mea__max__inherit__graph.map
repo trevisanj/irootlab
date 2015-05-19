@@ -1,0 +1,7 @@
+<map id="fcon_mea_max" name="fcon_mea_max">
+<area shape="rect" id="node2" href="$classfcon__mea.html" title="Measure: calculates one scalar per dataset row. " alt="" coords="21,304,99,331"/>
+<area shape="rect" id="node3" href="$classfcon.html" title="Feature Construction (FCon) base class. " alt="" coords="37,229,83,256"/>
+<area shape="rect" id="node4" href="$classfext.html" title="Feature Extraction (Fext) base class. " alt="" coords="38,155,81,181"/>
+<area shape="rect" id="node5" href="$classblock.html" title="Base Block class. " alt="" coords="33,80,87,107"/>
+<area shape="rect" id="node6" href="$classirobj.html" title="Base class. " alt="" coords="37,5,83,32"/>
+</map>

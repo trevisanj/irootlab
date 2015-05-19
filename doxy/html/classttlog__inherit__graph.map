@@ -1,0 +1,9 @@
+<map id="ttlog" name="ttlog">
+<area shape="rect" id="node4" href="$classestlog.html" title="Estimation logs base class. " alt="" coords="202,229,259,256"/>
+<area shape="rect" id="node8" href="$classttlog__props.html" title="Records properties from a block. " alt="" coords="283,229,369,256"/>
+<area shape="rect" id="node2" href="$classirlog.html" title="Log base class. " alt="" coords="255,80,301,107"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="255,5,301,32"/>
+<area shape="rect" id="node5" href="$classestlog__classxclass.html" title="Records (test class)x([rejected, estimation class]) hits. " alt="" coords="5,304,139,331"/>
+<area shape="rect" id="node6" href="$classestlog__groupxclass.html" title="Records (test group)x([rejected, estimation class]) hits. " alt="" coords="163,304,297,331"/>
+<area shape="rect" id="node7" href="$classestlog__rightwrong.html" title="Records (1)x([rejected, right, wrong]) hits. " alt="" coords="322,304,445,331"/>
+</map>

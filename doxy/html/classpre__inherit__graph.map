@@ -1,0 +1,28 @@
+<map id="pre" name="pre">
+<area shape="rect" id="node4" href="$classpre__abs.html" title="Takes absolute value of data X. " alt="" coords="318,5,386,32"/>
+<area shape="rect" id="node5" href="$classpre__abs2atr.html" title="Converts AB &#45;&gt; ATR. " alt="" coords="307,56,397,83"/>
+<area shape="rect" id="node6" href="$classpre__bc.html" title="Baseline Correction base class. " alt="" coords="321,107,383,133"/>
+<area shape="rect" id="node11" href="$classpre__deconv.html" title="Deconvolution. " alt="" coords="307,157,397,184"/>
+<area shape="rect" id="node12" href="$classpre__diff.html" title="Simple differentiation using MATLAB diff() function. " alt="" coords="319,208,385,235"/>
+<area shape="rect" id="node13" href="$classpre__diff__sg.html" title="Savitsky&#45;Golay (SG) Differentiation. " alt="" coords="309,259,395,285"/>
+<area shape="rect" id="node14" href="$classpre__flip__refmean.html" title="Flips the means around a reference class. " alt="" coords="293,309,411,336"/>
+<area shape="rect" id="node15" href="$classpre__norm__base.html" title="Normalization &#45; base class. " alt="" coords="297,360,407,387"/>
+<area shape="rect" id="node24" href="$classpre__sigwindow.html" title="Applies sigmoid window to curves. " alt="" coords="298,411,406,437"/>
+<area shape="rect" id="node25" href="$classpre__sub__refmean.html" title="Subtracts the mean of a reference class from all the rows. " alt="" coords="291,461,413,488"/>
+<area shape="rect" id="node26" href="$classpre__trimneg.html" title="Trim Negatives to zero. " alt="" coords="307,512,397,539"/>
+<area shape="rect" id="node27" href="$classpre__wden.html" title="Wavelet De&#45;noising block. " alt="" coords="313,563,391,589"/>
+<area shape="rect" id="node2" href="$classblock.html" title="Base Block class. " alt="" coords="101,284,155,311"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="6,284,53,311"/>
+<area shape="rect" id="node7" href="$classpre__bc__asls.html" title="Asymmetric Least&#45;Squares Baseline Correction. " alt="" coords="478,5,570,32"/>
+<area shape="rect" id="node8" href="$classpre__bc__poly.html" title="Polynomial Baseline Correction. " alt="" coords="478,56,570,83"/>
+<area shape="rect" id="node9" href="$classpre__bc__rmiesc.html" title="Paul Bassan&#39;s Resonant Mie Scattering Correction. " alt="" coords="471,107,577,133"/>
+<area shape="rect" id="node10" href="$classpre__bc__rubber.html" title="Convex Polygonal Line (Rubberband&#45;like) Baseline Correction. " alt="" coords="472,157,576,184"/>
+<area shape="rect" id="node16" href="$classpre__meanc.html" title="Mean&#45;centering (trained) " alt="" coords="481,208,567,235"/>
+<area shape="rect" id="node17" href="$classpre__norm.html" title="Normalization &#45; final class. " alt="" coords="486,259,562,285"/>
+<area shape="rect" id="node18" href="$classpre__norm__amide1.html" title="Normalization &#45; Amide I peak. " alt="" coords="461,309,587,336"/>
+<area shape="rect" id="node19" href="$classpre__norm__amide2.html" title="Normalization &#45; Amide II peak. " alt="" coords="461,360,587,387"/>
+<area shape="rect" id="node20" href="$classpre__norm__meanc.html" title="Normalization &#45; Mean&#45;centering. " alt="" coords="463,411,585,437"/>
+<area shape="rect" id="node21" href="$classpre__norm__std.html" title="Normalization &#45; std Normalization &#45; backward compatibility. " alt="" coords="473,461,575,488"/>
+<area shape="rect" id="node22" href="$classpre__norm__vector.html" title="Normalization &#45; Vector Normalization. " alt="" coords="465,512,583,539"/>
+<area shape="rect" id="node23" href="$classpre__std.html" title="Standardization (trained) " alt="" coords="491,563,557,589"/>
+</map>

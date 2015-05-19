@@ -1,0 +1,26 @@
+var classlog__cube =
+[
+    [ "log_cube", "classlog__cube.html#a8faac9ddc80db70ed2042de43d0f8d36", null ],
+    [ "allocate_logs", "classlog__cube.html#a87b7b6395391e6fddb2cef320e2b8d53", null ],
+    [ "do_get_html", "classlog__cube.html#ac2d6e9da700afcdf30a1552bb1e4bc9a", null ],
+    [ "do_get_report", "classlog__cube.html#aef7d12c3382659e8218f75a78c91e30a", null ],
+    [ "extract_log", "classlog__cube.html#a21a80216f7d2ff939fea4e1d284bb2a1", null ],
+    [ "extract_sovalues", "classlog__cube.html#a65dabd9ba6c018f29ff78988043b648d", null ],
+    [ "get_ancestry", "classlog__cube.html#a7da86e90b80e052ded5783dc76fe6ef0", null ],
+    [ "get_description", "classlog__cube.html#a858118b6e5102d45f06fd377ef2c7dfc", null ],
+    [ "get_html", "classlog__cube.html#ab767a983a9e15cb8d31fa46638c992b5", null ],
+    [ "get_methodname", "classlog__cube.html#a801bd321dd89532ab1d779d97ab32b46", null ],
+    [ "get_params", "classlog__cube.html#a2292265ecbcd7f7caa19147eb33a9e4b", null ],
+    [ "get_report", "classlog__cube.html#ad3c16fb9b5792dee72d6ed53d2d9fa28", null ],
+    [ "setbatch", "classlog__cube.html#a4f899ac95812b9eb629ace901f43fab1", null ],
+    [ "blocks", "classlog__cube.html#af04b8ced5b96805e5064e05d4f819b39", null ],
+    [ "classtitle", "classlog__cube.html#a2d094de760a3eab13f10848d2845b64f", null ],
+    [ "color", "classlog__cube.html#a7ae029f8256a0ff3b30999cbbe16d36d", null ],
+    [ "flag_params", "classlog__cube.html#ab4740bd1463621cfb4aeae3ad918d353", null ],
+    [ "flag_ui", "classlog__cube.html#a8dbb2f7fea7c7c6fa0e7d264094668f1", null ],
+    [ "logs", "classlog__cube.html#aeb76fc4e469a9ab6c6d4151dbcbbfe05", null ],
+    [ "moreactions", "classlog__cube.html#a99fa907daa9663001beca5e6b89b8bad", null ],
+    [ "no_datasets", "classlog__cube.html#a6285327f049b815fc9c4184c9905b3b0", null ],
+    [ "short", "classlog__cube.html#ab63d7d8101cbfb8b1ba446abf1eba235", null ],
+    [ "title", "classlog__cube.html#aa520bf025229210912c86c4ecd901bf5", null ]
+];

@@ -1,0 +1,11 @@
+<map id="grag" name="grag">
+<area shape="rect" id="node6" href="$classgrag__classes.html" title="Group Aggregator &#45; classes. " alt="" coords="173,379,272,405"/>
+<area shape="rect" id="node10" href="$classgrag__mean.html" title="Group Aggregator &#45; averages rows per group. " alt="" coords="297,379,383,405"/>
+<area shape="rect" id="node2" href="$classrowaggr.html" title="rowaggr" alt="" coords="247,229,315,256"/>
+<area shape="rect" id="node3" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="251,155,311,181"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="255,80,308,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="258,5,304,32"/>
+<area shape="rect" id="node7" href="$classgrag__classes__first.html" title="Group Aggregator &#45; Classes &#45; First row. " alt="" coords="5,453,133,480"/>
+<area shape="rect" id="node8" href="$classgrag__classes__vote.html" title="Group Aggregator &#45; Classes &#45; Vote. " alt="" coords="157,453,287,480"/>
+<area shape="rect" id="node9" href="$classgrag__classes__votew.html" title="Group Aggregator &#45; Classes &#45; Weighted Vote. " alt="" coords="312,453,452,480"/>
+</map>

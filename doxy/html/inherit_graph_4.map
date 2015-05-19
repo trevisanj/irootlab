@@ -1,0 +1,283 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classirobj.html" title="Base class. " alt="" coords="6,5065,53,5092"/>
+<area shape="rect" id="node2" href="$classbiocomparer.html" title="biocomparer" alt="" coords="104,2240,197,2267"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="124,2291,177,2317"/>
+<area shape="rect" id="node210" href="$classbmart.html" title="Art stuff for BioMarker Tables. " alt="" coords="123,4267,178,4293"/>
+<area shape="rect" id="node215" href="$classbmunit.html" title="Representation of a Unit. " alt="" coords="120,4469,181,4496"/>
+<area shape="rect" id="node220" href="$classdataio.html" title="Dataset loader/saver common class. " alt="" coords="122,4773,179,4800"/>
+<area shape="rect" id="node232" href="$classfsg.html" title="FSG &#45; Feature Subset Grader. " alt="" coords="131,5027,171,5053"/>
+<area shape="rect" id="node241" href="$classfsgt.html" title="fsgt" alt="" coords="129,5103,173,5129"/>
+<area shape="rect" id="node245" href="$classirdata.html" title="Dataset class. " alt="" coords="123,5229,178,5256"/>
+<area shape="rect" id="node248" href="$classirlog.html" title="Log base class. " alt="" coords="127,5575,174,5601"/>
+<area shape="rect" id="node269" href="$classpeakdetector.html" title="Peak Detector. " alt="" coords="102,5625,199,5652"/>
+<area shape="rect" id="node270" href="$classsgs.html" title="Base Sub&#45;dataset Generation Specification (SGS) class. " alt="" coords="129,5980,172,6007"/>
+<area shape="rect" id="node276" href="$classvectorcomp.html" title="Paired Vector Comparer base class. " alt="" coords="105,6183,196,6209"/>
+<area shape="rect" id="node4" href="$classas.html" title="Analysis Session (AS) base class. " alt="" coords="306,309,345,336"/>
+<area shape="rect" id="node26" href="$classblbl.html" title="Other blocks. " alt="" coords="304,669,347,696"/>
+<area shape="rect" id="node30" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="295,999,355,1025"/>
+<area shape="rect" id="node72" href="$classblock__bypass.html" title="Bypass block. " alt="" coords="274,1505,377,1532"/>
+<area shape="rect" id="node73" href="$classblock__cascade__base.html" title="Cascade block: sequence of blocks represented by a block. " alt="" coords="253,1556,397,1583"/>
+<area shape="rect" id="node82" href="$classclssr.html" title="Classifiers base class. " alt="" coords="300,2012,351,2039"/>
+<area shape="rect" id="node102" href="$classdecider.html" title="Block that resolves estimato posterior probabilities into classes. " alt="" coords="293,2240,357,2267"/>
+<area shape="rect" id="node103" href="$classfext.html" title="Feature Extraction (Fext) base class. " alt="" coords="303,2291,347,2317"/>
+<area shape="rect" id="node129" href="$classlogrecorder.html" title="Used to record a ttlog based on test and estimation data. " alt="" coords="282,2341,369,2368"/>
+<area shape="rect" id="node130" href="$classmethodcaller.html" title="Calls a method from input block. " alt="" coords="277,2392,373,2419"/>
+<area shape="rect" id="node131" href="$classmutant.html" title="&quot;Mutant&quot; block / metablock " alt="" coords="294,2443,357,2469"/>
+<area shape="rect" id="node132" href="$classpre.html" title="Pre&#45;processing block base class. " alt="" coords="305,2696,345,2723"/>
+<area shape="rect" id="node157" href="$classvis.html" title="Visualization base class. " alt="" coords="306,3937,345,3964"/>
+<area shape="rect" id="node5" href="$classas__crossc.html" title="Cross&#45;calculation Analysis Session. " alt="" coords="497,56,580,83"/>
+<area shape="rect" id="node6" href="$classas__dsperc__x__rate.html" title="(dataset %) x (classification rate) curve " alt="" coords="476,107,601,133"/>
+<area shape="rect" id="node7" href="$classas__fsel.html" title="Analysis Session that produces a log_as_fsel. " alt="" coords="507,157,571,184"/>
+<area shape="rect" id="node13" href="$classas__grades.html" title="Analysis Session that outputs a log_grades. " alt="" coords="497,208,580,235"/>
+<area shape="rect" id="node16" href="$classfactorscurve.html" title="Used to calculate (number of factors)x(performance) curves. " alt="" coords="491,259,586,285"/>
+<area shape="rect" id="node17" href="$classfselrepeater.html" title="Analysis Session &#45; Feature Selection Repeater. " alt="" coords="493,309,584,336"/>
+<area shape="rect" id="node18" href="$classgridsearch.html" title="Grid Search. " alt="" coords="497,360,580,387"/>
+<area shape="rect" id="node19" href="$classovrcurves.html" title="One&#45;Versus&#45;Reference calculation of grades curves. " alt="" coords="499,411,578,437"/>
+<area shape="rect" id="node20" href="$classrater.html" title="&quot;Rater&quot; class " alt="" coords="515,461,563,488"/>
+<area shape="rect" id="node21" href="$classreptt.html" title="REPeated Train&#45;Test. " alt="" coords="515,512,563,539"/>
+<area shape="rect" id="node8" href="$classas__fsel__eclass.html" title="eClass&#45;based feature selection " alt="" coords="715,5,824,32"/>
+<area shape="rect" id="node9" href="$classas__fsel__forward.html" title="Forward Feature Selection. " alt="" coords="712,56,827,83"/>
+<area shape="rect" id="node10" href="$classas__fsel__grades.html" title="Feature Selection based on a &quot;grades&quot; vector. " alt="" coords="714,107,825,133"/>
+<area shape="rect" id="node11" href="$classas__fsel__grades__super.html" title="&quot;Super&#45;object&quot; encapsulating both a as_fsel_grades and a as_grades_data object " alt="" coords="695,157,844,184"/>
+<area shape="rect" id="node12" href="$classas__fsel__lasso.html" title="LASSO feature selection. " alt="" coords="718,208,821,235"/>
+<area shape="rect" id="node14" href="$classas__grades__fsg.html" title="Calculates grades using a Feature Subset Grader (FSG) object. " alt="" coords="716,259,823,285"/>
+<area shape="rect" id="node15" href="$classas__grades__loadings.html" title="Loadings vector becomes the grades vector. " alt="" coords="701,309,838,336"/>
+<area shape="rect" id="node22" href="$classreptt__bag.html" title="REPTT for bagging classifiers. " alt="" coords="731,411,807,437"/>
+<area shape="rect" id="node23" href="$classreptt__blockcube.html" title="REpeated Train&#45;Test &#45; Block Cube. " alt="" coords="712,461,827,488"/>
+<area shape="rect" id="node24" href="$classreptt__hiesplit.html" title="Hierarchical split. " alt="" coords="721,512,817,539"/>
+<area shape="rect" id="node25" href="$classreptt__incr.html" title="Incremental learning curve &#45; to test incremental classifiers. " alt="" coords="731,563,807,589"/>
+<area shape="rect" id="node27" href="$classblbl__extract__cv.html" title="Extracts cluster vectors from block. " alt="" coords="483,581,594,608"/>
+<area shape="rect" id="node28" href="$classblbl__extract__ds__from__sovalues.html" title="Extracts dataset from sovalues. " alt="" coords="467,633,610,674"/>
+<area shape="rect" id="node29" href="$classsubsetsprocessor.html" title="Processor of a set of subsets of features. " alt="" coords="476,699,601,725"/>
+<area shape="rect" id="node31" href="$classblmisc__classes.html" title="Base class for blocks that change a dataset classes. " alt="" coords="483,749,595,776"/>
+<area shape="rect" id="node34" href="$classblmisc__classlabels.html" title="Base class for blocks that change a dataset class labels. " alt="" coords="473,817,605,844"/>
+<area shape="rect" id="node38" href="$classblmisc__fearange.html" title="Re&#45;sets the x&#45;axis of a dataset using 2&#45;element range vector provided. " alt="" coords="480,897,597,924"/>
+<area shape="rect" id="node39" href="$classblmisc__image.html" title="Image operations base class. " alt="" coords="487,948,590,975"/>
+<area shape="rect" id="node41" href="$classblmisc__merge.html" title="Base class for dataset mergers. " alt="" coords="487,999,590,1025"/>
+<area shape="rect" id="node44" href="$classblmisc__rows.html" title="Base class for blocks that change a dataset row order. " alt="" coords="491,1075,586,1101"/>
+<area shape="rect" id="node53" href="$classblmisc__rowsout.html" title="Outlier Removal base class. " alt="" coords="482,1201,595,1228"/>
+<area shape="rect" id="node60" href="$classrowaggr.html" title="rowaggr" alt="" coords="505,1277,573,1304"/>
+<area shape="rect" id="node32" href="$classblmisc__classes__from__clus.html" title="Assign classes from one data column from an irdata_clus object. " alt="" coords="681,613,857,640"/>
+<area shape="rect" id="node33" href="$classblmisc__classes__random.html" title="Randomizes classes. " alt="" coords="688,664,851,691"/>
+<area shape="rect" id="node35" href="$classblmisc__classlabels__hierarchy.html" title="Select some given class levels. " alt="" coords="703,715,835,757"/>
+<area shape="rect" id="node36" href="$classblmisc__classlabels__rename.html" title="Renames class labels. " alt="" coords="703,781,835,822"/>
+<area shape="rect" id="node37" href="$classblmisc__classlabels__sort.html" title="Sorts dataset class labels renumbering classes accordingly. " alt="" coords="689,847,850,873"/>
+<area shape="rect" id="node40" href="$classblmisc__image__transpose.html" title="Switches direction between &#39;hor&#39; or &#39;ver&#39;. " alt="" coords="686,897,853,924"/>
+<area shape="rect" id="node42" href="$classblmisc__merge__cols.html" title="Merges datasets parallelly (column&#45;wise). " alt="" coords="702,948,837,975"/>
+<area shape="rect" id="node43" href="$classblmisc__merge__rows.html" title="Merges datasets serially (row&#45;wise). " alt="" coords="700,999,839,1025"/>
+<area shape="rect" id="node45" href="$classblmisc__rows__inliers.html" title="Select inliers only. " alt="" coords="701,1049,837,1076"/>
+<area shape="rect" id="node46" href="$classblmisc__rows__shuffle.html" title="Shuffles rows keeping spectra from the same group together or not. " alt="" coords="699,1100,840,1127"/>
+<area shape="rect" id="node47" href="$classblmisc__split.html" title="Base class for blocks that split one dataset into many. " alt="" coords="724,1151,815,1177"/>
+<area shape="rect" id="node48" href="$classblmisc__split__classes.html" title="Splits dataset into many according to classes. " alt="" coords="934,948,1077,975"/>
+<area shape="rect" id="node49" href="$classblmisc__split__groups.html" title="Splits dataset per group, one dataset per group. " alt="" coords="937,999,1074,1025"/>
+<area shape="rect" id="node50" href="$classblmisc__split__ovo.html" title="One&#45;Versus&#45;One dataset split class combination. " alt="" coords="946,1049,1065,1076"/>
+<area shape="rect" id="node51" href="$classblmisc__split__ovr.html" title="One&#45;Versus&#45;Reference dataset split class combination. " alt="" coords="947,1100,1063,1127"/>
+<area shape="rect" id="node52" href="$classblmisc__split__proportion.html" title="Splits dataset in two according to proportion specified. " alt="" coords="928,1151,1083,1177"/>
+<area shape="rect" id="node54" href="$classblmisc__rowsout__multistage.html" title="Multi&#45;Stage Complex Outlier Removal. " alt="" coords="679,1201,859,1228"/>
+<area shape="rect" id="node55" href="$classblmisc__rowsout__uni.html" title="Univariate Outlier removal. " alt="" coords="701,1252,838,1279"/>
+<area shape="rect" id="node56" href="$classblmisc__rowsout__distr.html" title="Distribution&#45;Based Outlier Removal. " alt="" coords="933,1201,1078,1228"/>
+<area shape="rect" id="node59" href="$classblmisc__rowsout__ranges.html" title="Outlier removal by Ranges. " alt="" coords="926,1252,1085,1279"/>
+<area shape="rect" id="node57" href="$classblmisc__rowsout__hist.html" title="Outlier removal by Histogram. " alt="" coords="1153,1176,1295,1203"/>
+<area shape="rect" id="node58" href="$classblmisc__rowsout__kernel.html" title="Outlier removal by Kernel distribution estimation. " alt="" coords="1147,1227,1301,1253"/>
+<area shape="rect" id="node61" href="$classesag.html" title="Estimation Aggregator &#45; combines estimato objects together. " alt="" coords="744,1303,795,1329"/>
+<area shape="rect" id="node64" href="$classgrag.html" title="Group Aggregator &#45; combines data rows outputting one row per group. " alt="" coords="746,1353,793,1380"/>
+<area shape="rect" id="node70" href="$classrowaggr__means.html" title="rowaggr_means" alt="" coords="712,1404,827,1431"/>
+<area shape="rect" id="node71" href="$classrowaggr__nmean.html" title="rowaggr_nmean" alt="" coords="712,1455,827,1481"/>
+<area shape="rect" id="node62" href="$classesag__linear1.html" title="Estimation Aggregator &#45; Linear Combination of datasets. " alt="" coords="958,1303,1053,1329"/>
+<area shape="rect" id="node63" href="$classesag__wta.html" title="Estimation Aggregator &#45; Winner takes all. " alt="" coords="966,1353,1045,1380"/>
+<area shape="rect" id="node65" href="$classgrag__classes.html" title="Group Aggregator &#45; classes. " alt="" coords="956,1404,1055,1431"/>
+<area shape="rect" id="node69" href="$classgrag__mean.html" title="Group Aggregator &#45; averages rows per group. " alt="" coords="962,1455,1049,1481"/>
+<area shape="rect" id="node66" href="$classgrag__classes__first.html" title="Group Aggregator &#45; Classes &#45; First row. " alt="" coords="1160,1353,1288,1380"/>
+<area shape="rect" id="node67" href="$classgrag__classes__vote.html" title="Group Aggregator &#45; Classes &#45; Vote. " alt="" coords="1159,1404,1289,1431"/>
+<area shape="rect" id="node68" href="$classgrag__classes__votew.html" title="Group Aggregator &#45; Classes &#45; Weighted Vote. " alt="" coords="1153,1455,1295,1481"/>
+<area shape="rect" id="node74" href="$classblock__cascade.html" title="Cascade block: final instantializable class. " alt="" coords="484,1328,593,1355"/>
+<area shape="rect" id="node75" href="$classcascade__cbn.html" title="Cascade: fsel &#45;&gt; pre_bc_rubber &#45;&gt; pre_norm. " alt="" coords="489,1379,588,1405"/>
+<area shape="rect" id="node76" href="$classcascade__decidergrag.html" title="Cascade block: decider &#45;&gt; grag_classes_vote. " alt="" coords="466,1429,611,1456"/>
+<area shape="rect" id="node77" href="$classcascade__diffvn.html" title="Cascade block: pre_diff_sg &#45;&gt; pre_norm_vector. " alt="" coords="483,1480,594,1507"/>
+<area shape="rect" id="node78" href="$classcascade__fsel__grades__fsg.html" title="Cascade block: as_grades_fsg&#45;&gt;as_fsel_grades&#45;&gt;(extract_fsel) " alt="" coords="453,1531,624,1557"/>
+<area shape="rect" id="node79" href="$classcascade__gragdecider.html" title="Cascade block: grag_mean &#45;&gt; decider. " alt="" coords="466,1581,611,1608"/>
+<area shape="rect" id="node80" href="$classcascade__pcalda.html" title="Cascade block: fcon_pca &#45;&gt; fcon_lda. " alt="" coords="481,1632,597,1659"/>
+<area shape="rect" id="node81" href="$classcascade__stdhie.html" title="Demo cascade block: pre_norm_std &#45;&gt; blmisc_classlabels_hierarchy. " alt="" coords="482,1683,595,1709"/>
+<area shape="rect" id="node83" href="$classaggr.html" title="Base class for all ensemble classifiers. " alt="" coords="515,1733,562,1760"/>
+<area shape="rect" id="node92" href="$classclssr__ann.html" title="Neural Network Classifier. This is a wrapper to MATLAB&#39;s Neural Networks Toolbox. ..." alt="" coords="499,1784,578,1811"/>
+<area shape="rect" id="node93" href="$classclssr__d.html" title="Linear and Quadratic discriminant. " alt="" coords="507,1835,571,1861"/>
+<area shape="rect" id="node94" href="$classclssr__dist.html" title="Least&#45;Distance&#45;to&#45;Class&#45;Mean Classifier. " alt="" coords="499,1885,578,1912"/>
+<area shape="rect" id="node95" href="$classclssr__incr.html" title="Base class for Incremental Classifiers. " alt="" coords="499,1936,578,1963"/>
+<area shape="rect" id="node96" href="$classclssr__knn.html" title="k&#45;Nearest Neighbours Classifier " alt="" coords="499,1987,578,2013"/>
+<area shape="rect" id="node97" href="$classclssr__lasso.html" title="Lasso Classifier. " alt="" coords="495,2037,583,2064"/>
+<area shape="rect" id="node98" href="$classclssr__ls.html" title="Least&#45;squares classifier. " alt="" coords="505,2088,572,2115"/>
+<area shape="rect" id="node99" href="$classclssr__mnr.html" title="Logistic Regression Classifier. " alt="" coords="499,2139,578,2165"/>
+<area shape="rect" id="node100" href="$classclssr__svm.html" title="Support Vector Machine Classifier using LibSVM. " alt="" coords="497,2189,580,2216"/>
+<area shape="rect" id="node101" href="$classclssr__tree.html" title="Binary Decision Tree Classifier. " alt="" coords="499,2240,578,2267"/>
+<area shape="rect" id="node84" href="$classaggr__adaboost.html" title="Adaboost. " alt="" coords="716,1556,823,1583"/>
+<area shape="rect" id="node85" href="$classaggr__bag.html" title="Bagging ensemble. " alt="" coords="732,1607,807,1633"/>
+<area shape="rect" id="node86" href="$classaggr__hiesplit.html" title="Class&#45;Hierarchical Training Data Split. " alt="" coords="722,1657,817,1684"/>
+<area shape="rect" id="node87" href="$classaggr__mold.html" title="Fixed, pre&#45;determined components. " alt="" coords="728,1708,811,1735"/>
+<area shape="rect" id="node88" href="$classaggr__obsidxs.html" title="Pre&#45;determined dataset splits. " alt="" coords="720,1759,819,1785"/>
+<area shape="rect" id="node89" href="$classaggr__ova.html" title="One&#45;versus&#45;all classifier. " alt="" coords="732,1809,807,1836"/>
+<area shape="rect" id="node90" href="$classaggr__ovc.html" title="One&#45;versus&#45;&quot;control&quot; classifier. " alt="" coords="732,1860,807,1887"/>
+<area shape="rect" id="node91" href="$classaggr__pairs.html" title="Pairwise classifier. " alt="" coords="728,1911,811,1937"/>
+<area shape="rect" id="node104" href="$classfcon.html" title="Feature Construction (FCon) base class. " alt="" coords="515,2291,562,2317"/>
+<area shape="rect" id="node127" href="$classfext__parallel.html" title="Combines features extracted from two or more blocks in parallel. " alt="" coords="493,2341,585,2368"/>
+<area shape="rect" id="node128" href="$classfsel.html" title="Feature Selection (FSel) class. " alt="" coords="517,2392,560,2419"/>
+<area shape="rect" id="node105" href="$classclus.html" title="Clustering base class. " alt="" coords="746,1961,793,1988"/>
+<area shape="rect" id="node107" href="$classfcon__feaavg.html" title="Decimation &#45; makes averages of adjacent features. " alt="" coords="723,2037,816,2064"/>
+<area shape="rect" id="node108" href="$classfcon__linear.html" title="Feature Construction &#45; Linear Transformations base class. " alt="" coords="727,2088,812,2115"/>
+<area shape="rect" id="node116" href="$classfcon__maxminpos.html" title="Maxima/minima detection. " alt="" coords="709,2291,830,2317"/>
+<area shape="rect" id="node117" href="$classfcon__mea.html" title="Measure: calculates one scalar per dataset row. " alt="" coords="730,2341,809,2368"/>
+<area shape="rect" id="node126" href="$classfcon__resample.html" title="Resampling &#45; uses MATLAB&#39;s DSP Toolbox resample() function. " alt="" coords="716,2392,823,2419"/>
+<area shape="rect" id="node106" href="$classclus__hca.html" title="Hierarchical Clustering. " alt="" coords="968,1835,1043,1861"/>
+<area shape="rect" id="node109" href="$classfcon__lda.html" title="Fisher&#39;s Linear Discriminant Analysis. " alt="" coords="970,1885,1041,1912"/>
+<area shape="rect" id="node110" href="$classfcon__linear__fixed.html" title="Loadings vector specified directly. " alt="" coords="945,1936,1065,1963"/>
+<area shape="rect" id="node111" href="$classfcon__mcr.html" title="Multivariate Curve Resolution. " alt="" coords="967,1987,1043,2013"/>
+<area shape="rect" id="node112" href="$classfcon__pca.html" title="Principal Component Analysis. " alt="" coords="968,2037,1043,2064"/>
+<area shape="rect" id="node113" href="$classfcon__pls.html" title="Partial Least Squares Transformation aka PLSDA. " alt="" coords="970,2088,1041,2115"/>
+<area shape="rect" id="node114" href="$classfcon__slda.html" title="Sparse LDA. " alt="" coords="966,2139,1045,2165"/>
+<area shape="rect" id="node115" href="$classfcon__spline.html" title="B&#45;Splines Decomposition. " alt="" coords="961,2189,1049,2216"/>
+<area shape="rect" id="node118" href="$classfcon__mea__area.html" title="area " alt="" coords="950,2240,1061,2267"/>
+<area shape="rect" id="node119" href="$classfcon__mea__maha.html" title="Mahalanobis distance. " alt="" coords="946,2291,1065,2317"/>
+<area shape="rect" id="node120" href="$classfcon__mea__max.html" title="Maximum over all features. " alt="" coords="950,2341,1061,2368"/>
+<area shape="rect" id="node121" href="$classfcon__mea__mean.html" title="mean " alt="" coords="946,2392,1065,2419"/>
+<area shape="rect" id="node122" href="$classfcon__mea__min.html" title="Minimum over all features. " alt="" coords="952,2443,1059,2469"/>
+<area shape="rect" id="node123" href="$classfcon__mea__norm.html" title="Norm. " alt="" coords="948,2493,1063,2520"/>
+<area shape="rect" id="node124" href="$classfcon__mea__pick.html" title="Picks region area, region peak, or value at fixed x&#45;position. " alt="" coords="950,2544,1061,2571"/>
+<area shape="rect" id="node125" href="$classfcon__mea__ratio.html" title="Ratio between the X matrix of two datasets. " alt="" coords="950,2595,1061,2621"/>
+<area shape="rect" id="node133" href="$classpre__abs.html" title="Takes absolute value of data X. " alt="" coords="505,2443,573,2469"/>
+<area shape="rect" id="node134" href="$classpre__abs2atr.html" title="Converts AB &#45;&gt; ATR. " alt="" coords="493,2493,584,2520"/>
+<area shape="rect" id="node135" href="$classpre__bc.html" title="Baseline Correction base class. " alt="" coords="508,2544,569,2571"/>
+<area shape="rect" id="node140" href="$classpre__deconv.html" title="Deconvolution. " alt="" coords="494,2595,583,2621"/>
+<area shape="rect" id="node141" href="$classpre__diff.html" title="Simple differentiation using MATLAB diff() function. " alt="" coords="506,2645,571,2672"/>
+<area shape="rect" id="node142" href="$classpre__diff__sg.html" title="Savitsky&#45;Golay (SG) Differentiation. " alt="" coords="495,2696,582,2723"/>
+<area shape="rect" id="node143" href="$classpre__flip__refmean.html" title="Flips the means around a reference class. " alt="" coords="479,2747,598,2773"/>
+<area shape="rect" id="node144" href="$classpre__norm__base.html" title="Normalization &#45; base class. " alt="" coords="483,2797,594,2824"/>
+<area shape="rect" id="node153" href="$classpre__sigwindow.html" title="Applies sigmoid window to curves. " alt="" coords="485,2848,593,2875"/>
+<area shape="rect" id="node154" href="$classpre__sub__refmean.html" title="Subtracts the mean of a reference class from all the rows. " alt="" coords="477,2899,600,2925"/>
+<area shape="rect" id="node155" href="$classpre__trimneg.html" title="Trim Negatives to zero. " alt="" coords="493,2949,584,2976"/>
+<area shape="rect" id="node156" href="$classpre__wden.html" title="Wavelet De&#45;noising block. " alt="" coords="499,3000,578,3027"/>
+<area shape="rect" id="node136" href="$classpre__bc__asls.html" title="Asymmetric Least&#45;Squares Baseline Correction. " alt="" coords="723,2443,815,2469"/>
+<area shape="rect" id="node137" href="$classpre__bc__poly.html" title="Polynomial Baseline Correction. " alt="" coords="723,2493,815,2520"/>
+<area shape="rect" id="node138" href="$classpre__bc__rmiesc.html" title="Paul Bassan&#39;s Resonant Mie Scattering Correction. " alt="" coords="716,2544,823,2571"/>
+<area shape="rect" id="node139" href="$classpre__bc__rubber.html" title="Convex Polygonal Line (Rubberband&#45;like) Baseline Correction. " alt="" coords="717,2595,821,2621"/>
+<area shape="rect" id="node145" href="$classpre__meanc.html" title="Mean&#45;centering (trained) " alt="" coords="726,2645,813,2672"/>
+<area shape="rect" id="node146" href="$classpre__norm.html" title="Normalization &#45; final class. " alt="" coords="731,2696,807,2723"/>
+<area shape="rect" id="node147" href="$classpre__norm__amide1.html" title="Normalization &#45; Amide I peak. " alt="" coords="707,2747,832,2773"/>
+<area shape="rect" id="node148" href="$classpre__norm__amide2.html" title="Normalization &#45; Amide II peak. " alt="" coords="707,2797,832,2824"/>
+<area shape="rect" id="node149" href="$classpre__norm__meanc.html" title="Normalization &#45; Mean&#45;centering. " alt="" coords="708,2848,831,2875"/>
+<area shape="rect" id="node150" href="$classpre__norm__std.html" title="Normalization &#45; std Normalization &#45; backward compatibility. " alt="" coords="719,2899,820,2925"/>
+<area shape="rect" id="node151" href="$classpre__norm__vector.html" title="Normalization &#45; Vector Normalization. " alt="" coords="710,2949,829,2976"/>
+<area shape="rect" id="node152" href="$classpre__std.html" title="Standardization (trained) " alt="" coords="737,3000,802,3027"/>
+<area shape="rect" id="node158" href="$classirreport.html" title="Report base class. " alt="" coords="507,3203,570,3229"/>
+<area shape="rect" id="node180" href="$classvis__3dhist.html" title="Visualization &#45; Per&#45;Feature Histogram 3D. " alt="" coords="498,3253,579,3280"/>
+<area shape="rect" id="node181" href="$classvis__alldata.html" title="Visualization &#45; All curves in dataset. " alt="" coords="497,3304,581,3331"/>
+<area shape="rect" id="node182" href="$classvis__as__fsel__hist__entropy.html" title="Draws entropy curves based on a as_fsel_hist object. " alt="" coords="455,3355,622,3381"/>
+<area shape="rect" id="node183" href="$classvis__balls.html" title="Visualization &#45; Balls visualization for Confusion Matrices. " alt="" coords="502,3405,575,3432"/>
+<area shape="rect" id="node184" href="$classvis__blmisc__rowsout__uni.html" title="Visualization for blmisc_rowsout_uni objects. Invokes the outlier removal Preview dialog..." alt="" coords="458,3456,619,3483"/>
+<area shape="rect" id="node185" href="$classvis__clssr2d.html" title="Classification Domain &#45; classification regions etc. " alt="" coords="495,3507,583,3533"/>
+<area shape="rect" id="node186" href="$classvis__cov.html" title="Covariance matrix. " alt="" coords="505,3557,572,3584"/>
+<area shape="rect" id="node187" href="$classvis__crossloadings.html" title="Loadings vector of an as_crossc. " alt="" coords="475,3608,602,3635"/>
+<area shape="rect" id="node188" href="$classvis__curvefit.html" title="1D Scatterplot with x&#45;axis values associated to classes and curve fit " alt="" coords="494,3659,583,3685"/>
+<area shape="rect" id="node189" href="$classvis__cv.html" title="Visualization &#45; Cluster Vectors. " alt="" coords="509,3709,569,3736"/>
+<area shape="rect" id="node190" href="$classvis__featuregrades.html" title="Feature Grades using a fsg object to grade the features. " alt="" coords="476,3760,601,3787"/>
+<area shape="rect" id="node191" href="$classvis__hachures.html" title="Hachures showing intervals. " alt="" coords="489,3811,588,3837"/>
+<area shape="rect" id="node192" href="$classvis__hists.html" title="Visualization &#45; Histograms from log_hist. " alt="" coords="501,3861,576,3888"/>
+<area shape="rect" id="node193" href="$classvis__image.html" title="Image map. " alt="" coords="498,3912,579,3939"/>
+<area shape="rect" id="node194" href="$classvis__image__cat.html" title="Image map for non&#45;ordered, discrete features (e.g. from clustering) " alt="" coords="485,3963,592,3989"/>
+<area shape="rect" id="node195" href="$classvis__loadings.html" title="Visualization &#45; Loadings plots or Peak Location plots for loadings vectors. " alt="" coords="491,4013,586,4040"/>
+<area shape="rect" id="node196" href="$classvis__log__as__fsel.html" title="Visual representation of selected features. " alt="" coords="483,4064,595,4091"/>
+<area shape="rect" id="node197" href="$classvis__log__celldata.html" title="Visualization &#45; Histograms from log_celldata. " alt="" coords="481,4115,596,4141"/>
+<area shape="rect" id="node198" href="$classvis__log__grades.html" title="Visualization &#45; Grades vector calculated by any as_grades. " alt="" coords="484,4165,593,4192"/>
+<area shape="rect" id="node199" href="$classvis__log__ovrcurves.html" title="Visualization of Grades Curves stored inside a log_ovrcurves object. " alt="" coords="475,4216,602,4243"/>
+<area shape="rect" id="node200" href="$classvis__means.html" title="Visualization &#45; Class means. " alt="" coords="496,4267,581,4293"/>
+<area shape="rect" id="node201" href="$classvis__scatter1d.html" title="1D Scatterplot " alt="" coords="489,4317,589,4344"/>
+<area shape="rect" id="node202" href="$classvis__scatter2d.html" title="2D Scatterplot " alt="" coords="489,4368,589,4395"/>
+<area shape="rect" id="node203" href="$classvis__scatter3d.html" title="3D Scatterplot " alt="" coords="489,4419,589,4445"/>
+<area shape="rect" id="node204" href="$classvis__scatter3d2.html" title="Visualization &#45; 3D Scatterplot &#45; Ellipse Walls. " alt="" coords="485,4469,592,4496"/>
+<area shape="rect" id="node205" href="$classvis__scatter3dgif.html" title="GIF animation showing rotation of a 3D scatterplot. " alt="" coords="481,4520,596,4547"/>
+<area shape="rect" id="node206" href="$classvis__sovalues__drawimage.html" title="Draws image from a sovalues object. " alt="" coords="455,4571,623,4597"/>
+<area shape="rect" id="node207" href="$classvis__sovalues__drawplot.html" title="Draws plot from a sovalues object. " alt="" coords="461,4621,616,4648"/>
+<area shape="rect" id="node208" href="$classvis__sovalues__drawsubplot.html" title="Draws plot from a sovalues object. " alt="" coords="451,4672,626,4699"/>
+<area shape="rect" id="node209" href="$classvis__stackedhists.html" title="Visualization &#45; Stacked histograms. " alt="" coords="479,4723,599,4749"/>
+<area shape="rect" id="node159" href="$classreport__default.html" title="report_default" alt="" coords="719,3051,820,3077"/>
+<area shape="rect" id="node160" href="$classreport__estlog.html" title="estlog &#39;s HTML (confusion matrices) " alt="" coords="721,3101,818,3128"/>
+<area shape="rect" id="node161" href="$classreport__log__fselrepeater__hist.html" title="Single histogram report. " alt="" coords="678,3152,861,3179"/>
+<area shape="rect" id="node162" href="$classreport__log__gridsearch.html" title="Shows best parameters at each. " alt="" coords="696,3203,843,3229"/>
+<area shape="rect" id="node163" href="$classreport__soitem.html" title="Base for all reports that operate on a soitem object. " alt="" coords="719,3253,820,3280"/>
+<area shape="rect" id="node175" href="$classreport__sovalues__comparison.html" title="Comparison and p&#45;values tables. " alt="" coords="675,3304,863,3331"/>
+<area shape="rect" id="node176" href="$classreport__testtable.html" title="report_testtable" alt="" coords="713,3355,825,3381"/>
+<area shape="rect" id="node177" href="$classreport__ttlog.html" title="ttlog &#39;s HTML (confusion matrices " alt="" coords="726,3405,813,3432"/>
+<area shape="rect" id="node178" href="$classreport__ttlog__generic.html" title="ttlog_generic &#39;s HTML (confusion matrices) " alt="" coords="701,3456,837,3483"/>
+<area shape="rect" id="node179" href="$classreportmerger.html" title="Merges contents of many log_html. " alt="" coords="722,3507,817,3533"/>
+<area shape="rect" id="node164" href="$classreport__log__fselrepeater__histcomp.html" title="Histograms and biomarkers comparison using various subsetsprocessor objects. " alt="" coords="928,2969,1083,3010"/>
+<area shape="rect" id="node165" href="$classreport__soitem__fhg__hist.html" title="Single histogram report. Passes on to report_log_fselrepeater_hist. " alt="" coords="928,3035,1083,3061"/>
+<area shape="rect" id="node166" href="$classreport__soitem__fhg__histcomp.html" title="Passes on to report_log_fselrepeater_histcomp. " alt="" coords="912,3085,1099,3112"/>
+<area shape="rect" id="node167" href="$classreport__soitem__foldmerger__fitest.html" title="Passes on to report_estlog, to show confusion matrices. " alt="" coords="921,3137,1090,3178"/>
+<area shape="rect" id="node168" href="$classreport__soitem__fs.html" title="Plots the (nf)x(rates) curve. " alt="" coords="946,3203,1065,3229"/>
+<area shape="rect" id="node169" href="$classreport__soitem__items.html" title="Shows curves or images from foldmerge of some model selection (e.g. clarchsel or fearchsel) ..." alt="" coords="935,3253,1075,3280"/>
+<area shape="rect" id="node170" href="$classreport__soitem__merger__fhg.html" title="Histograms ane Biomarkers comparison tables &#45; Several set&#45;ups (including stabilizations). Comparisons using histograms, biomarker comparison tables/(heat maps). " alt="" coords="919,3304,1092,3331"/>
+<area shape="rect" id="node171" href="$classreport__soitem__merger__merger__fhg.html" title="report_soitem_merger\l_merger_fhg" alt="" coords="931,3355,1079,3397"/>
+<area shape="rect" id="node172" href="$classreport__soitem__merger__merger__fitest.html" title="report_soitem_merger\l_merger_fitest" alt="" coords="931,3421,1079,3462"/>
+<area shape="rect" id="node173" href="$classreport__soitem__merger__merger__fitest__1d.html" title="1D comparison table " alt="" coords="931,3486,1079,3527"/>
+<area shape="rect" id="node174" href="$classreport__soitem__sovalues.html" title="Comparison and p&#45;values tables. " alt="" coords="925,3552,1085,3579"/>
+<area shape="rect" id="node211" href="$classbmart__circle.html" title="Art stuff. " alt="" coords="279,4165,372,4192"/>
+<area shape="rect" id="node212" href="$classbmart__diamond.html" title="Art stuff. " alt="" coords="270,4216,381,4243"/>
+<area shape="rect" id="node213" href="$classbmart__pentagram.html" title="Art stuff. " alt="" coords="264,4267,387,4293"/>
+<area shape="rect" id="node214" href="$classbmart__square.html" title="Art stuff. " alt="" coords="275,4317,376,4344"/>
+<area shape="rect" id="node216" href="$classbmunit__au.html" title="Unit &#45; Arbitrary. " alt="" coords="284,4368,367,4395"/>
+<area shape="rect" id="node217" href="$classbmunit__hist.html" title="Unit &#45; HistogramSame as Integer, but plots as histogram (stem plot). Affects bmtable. " alt="" coords="281,4419,370,4445"/>
+<area shape="rect" id="node218" href="$classbmunit__int.html" title="Unit &#45; Integer. " alt="" coords="284,4469,367,4496"/>
+<area shape="rect" id="node219" href="$classbmunit__perc.html" title="Unit &#45; percentage. " alt="" coords="279,4520,372,4547"/>
+<area shape="rect" id="node221" href="$classdataio__db.html" title="Dataset loader/saver for the SHEWare database. " alt="" coords="286,4571,365,4597"/>
+<area shape="rect" id="node222" href="$classdataio__mat.html" title="Dataset loader/saver for mat files. " alt="" coords="282,4621,369,4648"/>
+<area shape="rect" id="node223" href="$classdataio__opus__nasse.html" title="Dataset loader for OPUS &quot;0&quot; files. " alt="" coords="258,4672,393,4699"/>
+<area shape="rect" id="node224" href="$classdataio__txt__basic.html" title="Basic TXT loader/saver. " alt="" coords="267,4723,384,4749"/>
+<area shape="rect" id="node226" href="$classdataio__txt__dpt.html" title="DPT TXT loader only. " alt="" coords="273,4773,377,4800"/>
+<area shape="rect" id="node227" href="$classdataio__txt__irootlab.html" title="IRootLab TXT loader/saver. " alt="" coords="261,4824,389,4851"/>
+<area shape="rect" id="node229" href="$classdataio__txt__libsvm.html" title="Saver in LIBSVM format (loading currently not implemented) " alt="" coords="263,4875,387,4901"/>
+<area shape="rect" id="node230" href="$classdataio__txt__pir.html" title="&quot;Pirouette&quot; TXT loader/saver " alt="" coords="275,4925,375,4952"/>
+<area shape="rect" id="node225" href="$classdataio__txt__basic__image.html" title="Derives from dataio_txt_basic to match uip_dataio_txt_basic.m. " alt="" coords="459,4773,618,4800"/>
+<area shape="rect" id="node228" href="$classdataio__txt__irootlab2.html" title="IRootLab TXT that saves classes column as labels, not numbers. " alt="" coords="471,4824,606,4851"/>
+<area shape="rect" id="node231" href="$classdataio__txt__pir__image.html" title="Derives from dataio_txt_pir; just sets flag_params to open GUI when opening file. ..." alt="" coords="467,4875,610,4901"/>
+<area shape="rect" id="node233" href="$classfsg__clssr.html" title="FSG that uses classifier to grade the subsets. " alt="" coords="288,4976,363,5003"/>
+<area shape="rect" id="node234" href="$classfsg__test.html" title="Feature subset grader that uses a statistical test. " alt="" coords="291,5027,360,5053"/>
+<area shape="rect" id="node235" href="$classfsg__test__anova.html" title="Feature subset grader &#45; ANOVA. " alt="" coords="483,4925,594,4952"/>
+<area shape="rect" id="node236" href="$classfsg__test__fisher.html" title="fsg_test_fisher" alt="" coords="485,4976,593,5003"/>
+<area shape="rect" id="node237" href="$classfsg__test__manova.html" title="Feature subset grader &#45; MANOVA. " alt="" coords="477,5027,600,5053"/>
+<area shape="rect" id="node238" href="$classfsg__test__t.html" title="Feature subset grader &#45; t&#45;test. " alt="" coords="499,5077,579,5104"/>
+<area shape="rect" id="node239" href="$classfsg__test__u.html" title="Feature subset grader &#45; Mann&#45;Whitney &quot;U&quot;&#45;test. " alt="" coords="497,5128,580,5155"/>
+<area shape="rect" id="node240" href="$classfsg__test__var.html" title="Feature subset grader &#45; variance. " alt="" coords="491,5179,586,5205"/>
+<area shape="rect" id="node242" href="$classfsgt__fisher.html" title="fsgt_fisher" alt="" coords="284,5077,367,5104"/>
+<area shape="rect" id="node243" href="$classfsgt__infgain.html" title="fsgt_infgain" alt="" coords="281,5128,370,5155"/>
+<area shape="rect" id="node244" href="$classfsgt__maxentr.html" title="fsgt_maxentr" alt="" coords="276,5179,375,5205"/>
+<area shape="rect" id="node246" href="$classestimato.html" title="Dataset representing estimation. " alt="" coords="289,5229,361,5256"/>
+<area shape="rect" id="node247" href="$classirdata__clus.html" title="Dataset class &#45; cluster data. " alt="" coords="283,5280,368,5307"/>
+<area shape="rect" id="node249" href="$classirconfusion.html" title="Class representing a Confusion matrix. " alt="" coords="283,5331,368,5357"/>
+<area shape="rect" id="node250" href="$classlog__as__crossc.html" title="Log generated by an as_crossc. " alt="" coords="272,5381,379,5408"/>
+<area shape="rect" id="node251" href="$classlog__as__fsel.html" title="Log generated by an as_fsel class. " alt="" coords="281,5432,369,5459"/>
+<area shape="rect" id="node254" href="$classlog__blmisc__rowsout__multistage.html" title="Log for the blmisc_rowsout_multistage block activity. " alt="" coords="257,5483,394,5525"/>
+<area shape="rect" id="node255" href="$classlog__celldata.html" title="Learning curve: (percent dataset used for training)x(classification rate) " alt="" coords="280,5549,371,5576"/>
+<area shape="rect" id="node256" href="$classlog__cube.html" title="Log generated by a reptt_blockcube. " alt="" coords="288,5600,363,5627"/>
+<area shape="rect" id="node257" href="$classlog__fselrepeater.html" title="Generated by fselrepeater, carries subsets of features. " alt="" coords="268,5651,383,5677"/>
+<area shape="rect" id="node258" href="$classlog__grades.html" title="Generated by a as_grades object, carries a &quot;grades&quot; vector; usually. " alt="" coords="283,5701,368,5728"/>
+<area shape="rect" id="node260" href="$classlog__gridsearch.html" title="Log generated by a gridsearch. " alt="" coords="272,5752,379,5779"/>
+<area shape="rect" id="node261" href="$classlog__html.html" title="Generated by irreport, carries HTML contents. " alt="" coords="290,5803,361,5829"/>
+<area shape="rect" id="node262" href="$classlog__ovrcurves.html" title="Stores set of grades as a matrix. " alt="" coords="274,5853,377,5880"/>
+<area shape="rect" id="node263" href="$classttlog.html" title="Train&#45;Test Log. " alt="" coords="302,5904,349,5931"/>
+<area shape="rect" id="node252" href="$classlog__as__fsel__forward.html" title="Log generated by a as_fsel_forward. " alt="" coords="469,5407,608,5433"/>
+<area shape="rect" id="node253" href="$classlog__as__fsel__grades.html" title="Log generated by as_fsel_grades. " alt="" coords="471,5457,606,5484"/>
+<area shape="rect" id="node259" href="$classlog__hist.html" title="Generated by subsetsprocessor, carries a histogram. " alt="" coords="505,5701,572,5728"/>
+<area shape="rect" id="node264" href="$classestlog.html" title="Estimation logs base class. " alt="" coords="510,5879,567,5905"/>
+<area shape="rect" id="node268" href="$classttlog__props.html" title="Records properties from a block. " alt="" coords="495,5929,582,5956"/>
+<area shape="rect" id="node265" href="$classestlog__classxclass.html" title="Records (test class)x([rejected, estimation class]) hits. " alt="" coords="703,5828,836,5855"/>
+<area shape="rect" id="node266" href="$classestlog__groupxclass.html" title="Records (test group)x([rejected, estimation class]) hits. " alt="" coords="702,5879,837,5905"/>
+<area shape="rect" id="node267" href="$classestlog__rightwrong.html" title="Records (1)x([rejected, right, wrong]) hits. " alt="" coords="707,5929,831,5956"/>
+<area shape="rect" id="node271" href="$classsgs__crossval.html" title="K&#45;Fold Cross&#45;Validation. " alt="" coords="276,5955,375,5981"/>
+<area shape="rect" id="node272" href="$classsgs__one__class__out.html" title="One&#45;class&#45;out SGS. " alt="" coords="258,6005,393,6032"/>
+<area shape="rect" id="node273" href="$classsgs__randsub__base.html" title="Random Sub&#45;sampling base class. " alt="" coords="260,6056,391,6083"/>
+<area shape="rect" id="node274" href="$classsgs__randsub.html" title="Random Sub&#45;sampling. " alt="" coords="491,6031,587,6057"/>
+<area shape="rect" id="node275" href="$classsgs__weighted.html" title="Weighted Sub&#45;Sampling. " alt="" coords="487,6081,590,6108"/>
+<area shape="rect" id="node277" href="$classvectorcomp__difference.html" title="vectorcomp_difference" alt="" coords="248,6107,403,6133"/>
+<area shape="rect" id="node278" href="$classvectorcomp__ttest.html" title="Vector Comparer &#45; t&#45;test. " alt="" coords="264,6157,387,6184"/>
+<area shape="rect" id="node279" href="$classvectorcomp__ttest__right.html" title="Vector Comparer &#45; paired t&#45;test right tail. " alt="" coords="248,6208,403,6235"/>
+<area shape="rect" id="node280" href="$classvectorcomp__utest.html" title="vectorcomp_utest" alt="" coords="262,6259,389,6285"/>
+<area shape="rect" id="node281" href="$classvectorcomp__xornorm.html" title="vectorcomp_xornorm" alt="" coords="253,6309,397,6336"/>
+</map>

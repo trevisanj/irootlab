@@ -1,0 +1,7 @@
+<map id="report_soitem_fs" name="report_soitem_fs">
+<area shape="rect" id="node2" href="$classreport__soitem.html" title="Base for all reports that operate on a soitem object. " alt="" coords="13,304,115,331"/>
+<area shape="rect" id="node3" href="$classirreport.html" title="Report base class. " alt="" coords="33,229,95,256"/>
+<area shape="rect" id="node4" href="$classvis.html" title="Visualization base class. " alt="" coords="45,155,83,181"/>
+<area shape="rect" id="node5" href="$classblock.html" title="Base Block class. " alt="" coords="37,80,91,107"/>
+<area shape="rect" id="node6" href="$classirobj.html" title="Base class. " alt="" coords="41,5,87,32"/>
+</map>

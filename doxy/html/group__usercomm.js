@@ -1,0 +1,28 @@
+var group__usercomm =
+[
+    [ "buggui.m", "buggui_8m.html", null ],
+    [ "progress2_change.m", "progress2__change_8m.html", null ],
+    [ "progress2_close.m", "progress2__close_8m.html", null ],
+    [ "progress2_open.m", "progress2__open_8m.html", null ],
+    [ "progress2_show.m", "progress2__show_8m.html", null ],
+    [ "progress_assert.m", "progress__assert_8m.html", null ],
+    [ "progress_change.m", "progress__change_8m.html", null ],
+    [ "progress_close.m", "progress__close_8m.html", null ],
+    [ "progress_open.m", "progress__open_8m.html", null ],
+    [ "progress_reset.m", "progress__reset_8m.html", null ],
+    [ "progress_show.m", "progress__show_8m.html", null ],
+    [ "verbose_assert.m", "verbose__assert_8m.html", null ],
+    [ "verbose_reset.m", "verbose__reset_8m.html", null ],
+    [ "verbose_set_sid.m", "verbose__set__sid_8m.html", null ],
+    [ "irootlab.m", "irootlab_8m.html", null ],
+    [ "irootlab_version.m", "irootlab__version_8m.html", null ],
+    [ "irootlab_restart.m", "irootlab__restart_8m.html", null ],
+    [ "help2.m", "help2_8m.html", null ],
+    [ "irerror.m", "irerror_8m.html", null ],
+    [ "iroothelp.m", "iroothelp_8m.html", null ],
+    [ "irverbose.m", "irverbose_8m.html", null ],
+    [ "irwarning.m", "irwarning_8m.html", null ],
+    [ "menu.m", "menu_8m.html", null ],
+    [ "pause2.m", "pause2_8m.html", null ],
+    [ "send_error.m", "send__error_8m.html", null ]
+];

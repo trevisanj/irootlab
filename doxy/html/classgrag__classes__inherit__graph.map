@@ -1,0 +1,10 @@
+<map id="grag_classes" name="grag_classes">
+<area shape="rect" id="node7" href="$classgrag__classes__first.html" title="Group Aggregator &#45; Classes &#45; First row. " alt="" coords="5,453,133,480"/>
+<area shape="rect" id="node8" href="$classgrag__classes__vote.html" title="Group Aggregator &#45; Classes &#45; Vote. " alt="" coords="157,453,287,480"/>
+<area shape="rect" id="node9" href="$classgrag__classes__votew.html" title="Group Aggregator &#45; Classes &#45; Weighted Vote. " alt="" coords="312,453,452,480"/>
+<area shape="rect" id="node2" href="$classgrag.html" title="Group Aggregator &#45; combines data rows outputting one row per group. " alt="" coords="199,304,245,331"/>
+<area shape="rect" id="node3" href="$classrowaggr.html" title="rowaggr" alt="" coords="189,229,256,256"/>
+<area shape="rect" id="node4" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="193,155,252,181"/>
+<area shape="rect" id="node5" href="$classblock.html" title="Base Block class. " alt="" coords="196,80,249,107"/>
+<area shape="rect" id="node6" href="$classirobj.html" title="Base class. " alt="" coords="199,5,245,32"/>
+</map>

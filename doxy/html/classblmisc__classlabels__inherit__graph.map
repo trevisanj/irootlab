@@ -1,0 +1,8 @@
+<map id="blmisc_classlabels" name="blmisc_classlabels">
+<area shape="rect" id="node5" href="$classblmisc__classlabels__hierarchy.html" title="Select some given class levels. " alt="" coords="5,305,136,346"/>
+<area shape="rect" id="node6" href="$classblmisc__classlabels__rename.html" title="Renames class labels. " alt="" coords="161,305,292,346"/>
+<area shape="rect" id="node7" href="$classblmisc__classlabels__sort.html" title="Sorts dataset class labels renumbering classes accordingly. " alt="" coords="317,312,477,339"/>
+<area shape="rect" id="node2" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="197,155,256,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="200,80,253,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="203,5,249,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="blmisc_split" name="blmisc_split">
+<area shape="rect" id="node6" href="$classblmisc__split__classes.html" title="Splits dataset into many according to classes. " alt="" coords="601,5,743,32"/>
+<area shape="rect" id="node7" href="$classblmisc__split__groups.html" title="Splits dataset per group, one dataset per group. " alt="" coords="603,56,741,83"/>
+<area shape="rect" id="node8" href="$classblmisc__split__ovo.html" title="One&#45;Versus&#45;One dataset split class combination. " alt="" coords="613,107,731,133"/>
+<area shape="rect" id="node9" href="$classblmisc__split__ovr.html" title="One&#45;Versus&#45;Reference dataset split class combination. " alt="" coords="614,157,730,184"/>
+<area shape="rect" id="node10" href="$classblmisc__split__proportion.html" title="Splits dataset in two according to proportion specified. " alt="" coords="595,208,749,235"/>
+<area shape="rect" id="node2" href="$classblmisc__rows.html" title="Base class for blocks that change a dataset row order. " alt="" coords="313,107,407,133"/>
+<area shape="rect" id="node3" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="203,107,263,133"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="101,107,155,133"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="6,107,53,133"/>
+</map>

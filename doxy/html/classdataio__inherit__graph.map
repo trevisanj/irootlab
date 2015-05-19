@@ -1,0 +1,14 @@
+<map id="dataio" name="dataio">
+<area shape="rect" id="node3" href="$classdataio__db.html" title="Dataset loader/saver for the SHEWare database. " alt="" coords="237,5,315,32"/>
+<area shape="rect" id="node4" href="$classdataio__mat.html" title="Dataset loader/saver for mat files. " alt="" coords="233,56,319,83"/>
+<area shape="rect" id="node5" href="$classdataio__opus__nasse.html" title="Dataset loader for OPUS &quot;0&quot; files. " alt="" coords="209,107,343,133"/>
+<area shape="rect" id="node6" href="$classdataio__txt__basic.html" title="Basic TXT loader/saver. " alt="" coords="217,157,335,184"/>
+<area shape="rect" id="node8" href="$classdataio__txt__dpt.html" title="DPT TXT loader only. " alt="" coords="224,208,328,235"/>
+<area shape="rect" id="node9" href="$classdataio__txt__irootlab.html" title="IRootLab TXT loader/saver. " alt="" coords="212,259,340,285"/>
+<area shape="rect" id="node11" href="$classdataio__txt__libsvm.html" title="Saver in LIBSVM format (loading currently not implemented) " alt="" coords="214,309,338,336"/>
+<area shape="rect" id="node12" href="$classdataio__txt__pir.html" title="&quot;Pirouette&quot; TXT loader/saver " alt="" coords="226,360,326,387"/>
+<area shape="rect" id="node2" href="$classirobj.html" title="Base class. " alt="" coords="6,183,53,209"/>
+<area shape="rect" id="node7" href="$classdataio__txt__basic__image.html" title="Derives from dataio_txt_basic to match uip_dataio_txt_basic.m. " alt="" coords="393,157,551,184"/>
+<area shape="rect" id="node10" href="$classdataio__txt__irootlab2.html" title="IRootLab TXT that saves classes column as labels, not numbers. " alt="" coords="405,259,539,285"/>
+<area shape="rect" id="node13" href="$classdataio__txt__pir__image.html" title="Derives from dataio_txt_pir; just sets flag_params to open GUI when opening file. ..." alt="" coords="401,360,543,387"/>
+</map>

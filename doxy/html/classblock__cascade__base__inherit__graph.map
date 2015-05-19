@@ -1,0 +1,12 @@
+<map id="block_cascade_base" name="block_cascade_base">
+<area shape="rect" id="node4" href="$classblock__cascade.html" title="Cascade block: final instantializable class. " alt="" coords="425,5,535,32"/>
+<area shape="rect" id="node5" href="$classcascade__cbn.html" title="Cascade: fsel &#45;&gt; pre_bc_rubber &#45;&gt; pre_norm. " alt="" coords="431,56,529,83"/>
+<area shape="rect" id="node6" href="$classcascade__decidergrag.html" title="Cascade block: decider &#45;&gt; grag_classes_vote. " alt="" coords="407,107,553,133"/>
+<area shape="rect" id="node7" href="$classcascade__diffvn.html" title="Cascade block: pre_diff_sg &#45;&gt; pre_norm_vector. " alt="" coords="425,157,535,184"/>
+<area shape="rect" id="node8" href="$classcascade__fsel__grades__fsg.html" title="Cascade block: as_grades_fsg&#45;&gt;as_fsel_grades&#45;&gt;(extract_fsel) " alt="" coords="395,208,565,235"/>
+<area shape="rect" id="node9" href="$classcascade__gragdecider.html" title="Cascade block: grag_mean &#45;&gt; decider. " alt="" coords="407,259,553,285"/>
+<area shape="rect" id="node10" href="$classcascade__pcalda.html" title="Cascade block: fcon_pca &#45;&gt; fcon_lda. " alt="" coords="422,309,538,336"/>
+<area shape="rect" id="node11" href="$classcascade__stdhie.html" title="Demo cascade block: pre_norm_std &#45;&gt; blmisc_classlabels_hierarchy. " alt="" coords="423,360,537,387"/>
+<area shape="rect" id="node2" href="$classblock.html" title="Base Block class. " alt="" coords="101,183,155,209"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="6,183,53,209"/>
+</map>

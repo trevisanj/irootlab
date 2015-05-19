@@ -1,0 +1,50 @@
+<map id="vis" name="vis">
+<area shape="rect" id="node4" href="$classirreport.html" title="Report base class. " alt="" coords="347,233,410,260"/>
+<area shape="rect" id="node20" href="$classvis__3dhist.html" title="Visualization &#45; Per&#45;Feature Histogram 3D. " alt="" coords="338,284,419,311"/>
+<area shape="rect" id="node21" href="$classvis__alldata.html" title="Visualization &#45; All curves in dataset. " alt="" coords="337,335,421,361"/>
+<area shape="rect" id="node22" href="$classvis__as__fsel__hist__entropy.html" title="Draws entropy curves based on a as_fsel_hist object. " alt="" coords="295,385,462,412"/>
+<area shape="rect" id="node23" href="$classvis__balls.html" title="Visualization &#45; Balls visualization for Confusion Matrices. " alt="" coords="342,436,415,463"/>
+<area shape="rect" id="node24" href="$classvis__blmisc__rowsout__uni.html" title="Visualization for blmisc_rowsout_uni objects. Invokes the outlier removal Preview dialog..." alt="" coords="298,487,459,513"/>
+<area shape="rect" id="node25" href="$classvis__clssr2d.html" title="Classification Domain &#45; classification regions etc. " alt="" coords="335,537,423,564"/>
+<area shape="rect" id="node26" href="$classvis__cov.html" title="Covariance matrix. " alt="" coords="345,588,412,615"/>
+<area shape="rect" id="node27" href="$classvis__crossloadings.html" title="Loadings vector of an as_crossc. " alt="" coords="315,639,442,665"/>
+<area shape="rect" id="node28" href="$classvis__curvefit.html" title="1D Scatterplot with x&#45;axis values associated to classes and curve fit " alt="" coords="334,689,423,716"/>
+<area shape="rect" id="node29" href="$classvis__cv.html" title="Visualization &#45; Cluster Vectors. " alt="" coords="349,740,409,767"/>
+<area shape="rect" id="node30" href="$classvis__featuregrades.html" title="Feature Grades using a fsg object to grade the features. " alt="" coords="316,791,441,817"/>
+<area shape="rect" id="node31" href="$classvis__hachures.html" title="Hachures showing intervals. " alt="" coords="329,841,428,868"/>
+<area shape="rect" id="node32" href="$classvis__hists.html" title="Visualization &#45; Histograms from log_hist. " alt="" coords="341,892,416,919"/>
+<area shape="rect" id="node33" href="$classvis__image.html" title="Image map. " alt="" coords="338,943,419,969"/>
+<area shape="rect" id="node34" href="$classvis__image__cat.html" title="Image map for non&#45;ordered, discrete features (e.g. from clustering) " alt="" coords="325,993,432,1020"/>
+<area shape="rect" id="node35" href="$classvis__loadings.html" title="Visualization &#45; Loadings plots or Peak Location plots for loadings vectors. " alt="" coords="331,1044,426,1071"/>
+<area shape="rect" id="node36" href="$classvis__log__as__fsel.html" title="Visual representation of selected features. " alt="" coords="323,1095,435,1121"/>
+<area shape="rect" id="node37" href="$classvis__log__celldata.html" title="Visualization &#45; Histograms from log_celldata. " alt="" coords="321,1145,436,1172"/>
+<area shape="rect" id="node38" href="$classvis__log__grades.html" title="Visualization &#45; Grades vector calculated by any as_grades. " alt="" coords="324,1196,433,1223"/>
+<area shape="rect" id="node39" href="$classvis__log__ovrcurves.html" title="Visualization of Grades Curves stored inside a log_ovrcurves object. " alt="" coords="315,1247,442,1273"/>
+<area shape="rect" id="node40" href="$classvis__means.html" title="Visualization &#45; Class means. " alt="" coords="336,1297,421,1324"/>
+<area shape="rect" id="node41" href="$classvis__scatter1d.html" title="1D Scatterplot " alt="" coords="329,1348,429,1375"/>
+<area shape="rect" id="node42" href="$classvis__scatter2d.html" title="2D Scatterplot " alt="" coords="329,1399,429,1425"/>
+<area shape="rect" id="node43" href="$classvis__scatter3d.html" title="3D Scatterplot " alt="" coords="329,1449,429,1476"/>
+<area shape="rect" id="node44" href="$classvis__scatter3d2.html" title="Visualization &#45; 3D Scatterplot &#45; Ellipse Walls. " alt="" coords="325,1500,432,1527"/>
+<area shape="rect" id="node45" href="$classvis__scatter3dgif.html" title="GIF animation showing rotation of a 3D scatterplot. " alt="" coords="321,1551,436,1577"/>
+<area shape="rect" id="node46" href="$classvis__sovalues__drawimage.html" title="Draws image from a sovalues object. " alt="" coords="295,1601,463,1628"/>
+<area shape="rect" id="node47" href="$classvis__sovalues__drawplot.html" title="Draws plot from a sovalues object. " alt="" coords="301,1652,456,1679"/>
+<area shape="rect" id="node48" href="$classvis__sovalues__drawsubplot.html" title="Draws plot from a sovalues object. " alt="" coords="291,1703,466,1729"/>
+<area shape="rect" id="node49" href="$classvis__stackedhists.html" title="Visualization &#45; Stacked histograms. " alt="" coords="319,1753,439,1780"/>
+<area shape="rect" id="node2" href="$classblock.html" title="Base Block class. " alt="" coords="101,993,155,1020"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="6,993,53,1020"/>
+<area shape="rect" id="node5" href="$classreport__default.html" title="report_default" alt="" coords="559,5,660,32"/>
+<area shape="rect" id="node6" href="$classreport__estlog.html" title="estlog &#39;s HTML (confusion matrices) " alt="" coords="561,56,658,83"/>
+<area shape="rect" id="node7" href="$classreport__log__fselrepeater__hist.html" title="Single histogram report. " alt="" coords="518,107,701,133"/>
+<area shape="rect" id="node8" href="$classreport__log__gridsearch.html" title="Shows best parameters at each. " alt="" coords="536,157,683,184"/>
+<area shape="rect" id="node9" href="$classreport__soitem.html" title="Base for all reports that operate on a soitem object. " alt="" coords="559,208,660,235"/>
+<area shape="rect" id="node15" href="$classreport__sovalues__comparison.html" title="Comparison and p&#45;values tables. " alt="" coords="515,259,703,285"/>
+<area shape="rect" id="node16" href="$classreport__testtable.html" title="report_testtable" alt="" coords="553,309,665,336"/>
+<area shape="rect" id="node17" href="$classreport__ttlog.html" title="ttlog &#39;s HTML (confusion matrices " alt="" coords="566,360,653,387"/>
+<area shape="rect" id="node18" href="$classreport__ttlog__generic.html" title="ttlog_generic &#39;s HTML (confusion matrices) " alt="" coords="541,411,677,437"/>
+<area shape="rect" id="node19" href="$classreportmerger.html" title="Merges contents of many log_html. " alt="" coords="562,461,657,488"/>
+<area shape="rect" id="node10" href="$classreport__log__fselrepeater__histcomp.html" title="Histograms and biomarkers comparison using various subsetsprocessor objects. " alt="" coords="768,91,923,133"/>
+<area shape="rect" id="node11" href="$classreport__soitem__fhg__hist.html" title="Single histogram report. Passes on to report_log_fselrepeater_hist. " alt="" coords="768,157,923,184"/>
+<area shape="rect" id="node12" href="$classreport__soitem__fhg__histcomp.html" title="Passes on to report_log_fselrepeater_histcomp. " alt="" coords="752,208,939,235"/>
+<area shape="rect" id="node13" href="$classreport__soitem__foldmerger__fitest.html" title="Passes on to report_estlog, to show confusion matrices. " alt="" coords="761,259,930,301"/>
+<area shape="rect" id="node14" href="$classreport__soitem__fs.html" title="Plots the (nf)x(rates) curve. " alt="" coords="786,325,905,352"/>
+</map>

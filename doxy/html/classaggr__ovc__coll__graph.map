@@ -1,0 +1,6 @@
+<map id="aggr_ovc" name="aggr_ovc">
+<area shape="rect" id="node2" href="$classaggr.html" title="Base class for all ensemble classifiers. " alt="" coords="18,229,64,256"/>
+<area shape="rect" id="node3" href="$classclssr.html" title="Classifiers base class. " alt="" coords="16,155,67,181"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="15,80,68,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="18,5,64,32"/>
+</map>

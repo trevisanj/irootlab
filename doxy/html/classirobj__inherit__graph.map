@@ -1,0 +1,50 @@
+<map id="irobj" name="irobj">
+<area shape="rect" id="node2" href="$classbiocomparer.html" title="biocomparer" alt="" coords="104,309,197,336"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="124,360,177,387"/>
+<area shape="rect" id="node17" href="$classbmart.html" title="Art stuff for BioMarker Tables. " alt="" coords="123,765,178,792"/>
+<area shape="rect" id="node22" href="$classbmunit.html" title="Representation of a Unit. " alt="" coords="120,968,181,995"/>
+<area shape="rect" id="node27" href="$classdataio.html" title="Dataset loader/saver common class. " alt="" coords="122,1272,179,1299"/>
+<area shape="rect" id="node36" href="$classfsg.html" title="FSG &#45; Feature Subset Grader. " alt="" coords="131,1500,171,1527"/>
+<area shape="rect" id="node39" href="$classfsgt.html" title="fsgt" alt="" coords="129,1551,173,1577"/>
+<area shape="rect" id="node43" href="$classirdata.html" title="Dataset class. " alt="" coords="123,1601,178,1628"/>
+<area shape="rect" id="node46" href="$classirlog.html" title="Log base class. " alt="" coords="127,1652,174,1679"/>
+<area shape="rect" id="node47" href="$classpeakdetector.html" title="Peak Detector. " alt="" coords="102,1703,199,1729"/>
+<area shape="rect" id="node48" href="$classsgs.html" title="Base Sub&#45;dataset Generation Specification (SGS) class. " alt="" coords="129,1753,172,1780"/>
+<area shape="rect" id="node49" href="$classvectorcomp.html" title="Paired Vector Comparer base class. " alt="" coords="105,1804,196,1831"/>
+<area shape="rect" id="node4" href="$classas.html" title="Analysis Session (AS) base class. " alt="" coords="301,5,339,32"/>
+<area shape="rect" id="node5" href="$classblbl.html" title="Other blocks. " alt="" coords="299,56,341,83"/>
+<area shape="rect" id="node6" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="290,107,350,133"/>
+<area shape="rect" id="node7" href="$classblock__bypass.html" title="Bypass block. " alt="" coords="269,157,371,184"/>
+<area shape="rect" id="node8" href="$classblock__cascade__base.html" title="Cascade block: sequence of blocks represented by a block. " alt="" coords="248,208,392,235"/>
+<area shape="rect" id="node9" href="$classclssr.html" title="Classifiers base class. " alt="" coords="295,259,345,285"/>
+<area shape="rect" id="node10" href="$classdecider.html" title="Block that resolves estimato posterior probabilities into classes. " alt="" coords="288,309,352,336"/>
+<area shape="rect" id="node11" href="$classfext.html" title="Feature Extraction (Fext) base class. " alt="" coords="298,360,342,387"/>
+<area shape="rect" id="node12" href="$classlogrecorder.html" title="Used to record a ttlog based on test and estimation data. " alt="" coords="277,411,363,437"/>
+<area shape="rect" id="node13" href="$classmethodcaller.html" title="Calls a method from input block. " alt="" coords="272,461,368,488"/>
+<area shape="rect" id="node14" href="$classmutant.html" title="&quot;Mutant&quot; block / metablock " alt="" coords="289,512,351,539"/>
+<area shape="rect" id="node15" href="$classpre.html" title="Pre&#45;processing block base class. " alt="" coords="300,563,340,589"/>
+<area shape="rect" id="node16" href="$classvis.html" title="Visualization base class. " alt="" coords="301,613,339,640"/>
+<area shape="rect" id="node18" href="$classbmart__circle.html" title="Art stuff. " alt="" coords="273,664,367,691"/>
+<area shape="rect" id="node19" href="$classbmart__diamond.html" title="Art stuff. " alt="" coords="265,715,375,741"/>
+<area shape="rect" id="node20" href="$classbmart__pentagram.html" title="Art stuff. " alt="" coords="259,765,381,792"/>
+<area shape="rect" id="node21" href="$classbmart__square.html" title="Art stuff. " alt="" coords="269,816,371,843"/>
+<area shape="rect" id="node23" href="$classbmunit__au.html" title="Unit &#45; Arbitrary. " alt="" coords="279,867,361,893"/>
+<area shape="rect" id="node24" href="$classbmunit__hist.html" title="Unit &#45; HistogramSame as Integer, but plots as histogram (stem plot). Affects bmtable. " alt="" coords="275,917,365,944"/>
+<area shape="rect" id="node25" href="$classbmunit__int.html" title="Unit &#45; Integer. " alt="" coords="279,968,361,995"/>
+<area shape="rect" id="node26" href="$classbmunit__perc.html" title="Unit &#45; percentage. " alt="" coords="273,1019,367,1045"/>
+<area shape="rect" id="node28" href="$classdataio__db.html" title="Dataset loader/saver for the SHEWare database. " alt="" coords="281,1069,359,1096"/>
+<area shape="rect" id="node29" href="$classdataio__mat.html" title="Dataset loader/saver for mat files. " alt="" coords="277,1120,363,1147"/>
+<area shape="rect" id="node30" href="$classdataio__opus__nasse.html" title="Dataset loader for OPUS &quot;0&quot; files. " alt="" coords="253,1171,387,1197"/>
+<area shape="rect" id="node31" href="$classdataio__txt__basic.html" title="Basic TXT loader/saver. " alt="" coords="261,1221,379,1248"/>
+<area shape="rect" id="node32" href="$classdataio__txt__dpt.html" title="DPT TXT loader only. " alt="" coords="268,1272,372,1299"/>
+<area shape="rect" id="node33" href="$classdataio__txt__irootlab.html" title="IRootLab TXT loader/saver. " alt="" coords="256,1323,384,1349"/>
+<area shape="rect" id="node34" href="$classdataio__txt__libsvm.html" title="Saver in LIBSVM format (loading currently not implemented) " alt="" coords="258,1373,382,1400"/>
+<area shape="rect" id="node35" href="$classdataio__txt__pir.html" title="&quot;Pirouette&quot; TXT loader/saver " alt="" coords="270,1424,370,1451"/>
+<area shape="rect" id="node37" href="$classfsg__clssr.html" title="FSG that uses classifier to grade the subsets. " alt="" coords="283,1475,357,1501"/>
+<area shape="rect" id="node38" href="$classfsg__test.html" title="Feature subset grader that uses a statistical test. " alt="" coords="285,1525,355,1552"/>
+<area shape="rect" id="node40" href="$classfsgt__fisher.html" title="fsgt_fisher" alt="" coords="279,1576,361,1603"/>
+<area shape="rect" id="node41" href="$classfsgt__infgain.html" title="fsgt_infgain" alt="" coords="275,1627,365,1653"/>
+<area shape="rect" id="node42" href="$classfsgt__maxentr.html" title="fsgt_maxentr" alt="" coords="271,1677,369,1704"/>
+<area shape="rect" id="node44" href="$classestimato.html" title="Dataset representing estimation. " alt="" coords="284,1728,356,1755"/>
+<area shape="rect" id="node45" href="$classirdata__clus.html" title="Dataset class &#45; cluster data. " alt="" coords="277,1779,363,1805"/>
+</map>

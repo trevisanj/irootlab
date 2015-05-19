@@ -1,0 +1,13 @@
+<map id="fcon_linear" name="fcon_linear">
+<area shape="rect" id="node6" href="$classfcon__lda.html" title="Fisher&#39;s Linear Discriminant Analysis. " alt="" coords="5,379,75,405"/>
+<area shape="rect" id="node7" href="$classfcon__linear__fixed.html" title="Loadings vector specified directly. " alt="" coords="100,379,220,405"/>
+<area shape="rect" id="node8" href="$classfcon__mcr.html" title="Multivariate Curve Resolution. " alt="" coords="245,379,320,405"/>
+<area shape="rect" id="node9" href="$classfcon__pca.html" title="Principal Component Analysis. " alt="" coords="345,379,419,405"/>
+<area shape="rect" id="node10" href="$classfcon__pls.html" title="Partial Least Squares Transformation aka PLSDA. " alt="" coords="445,379,515,405"/>
+<area shape="rect" id="node11" href="$classfcon__slda.html" title="Sparse LDA. " alt="" coords="539,379,617,405"/>
+<area shape="rect" id="node12" href="$classfcon__spline.html" title="B&#45;Splines Decomposition. " alt="" coords="643,379,731,405"/>
+<area shape="rect" id="node2" href="$classfcon.html" title="Feature Construction (FCon) base class. " alt="" coords="359,229,405,256"/>
+<area shape="rect" id="node3" href="$classfext.html" title="Feature Extraction (Fext) base class. " alt="" coords="361,155,404,181"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="356,80,409,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="359,5,405,32"/>
+</map>

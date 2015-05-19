@@ -1,0 +1,8 @@
+<map id="sgs" name="sgs">
+<area shape="rect" id="node3" href="$classsgs__crossval.html" title="K&#45;Fold Cross&#45;Validation. " alt="" coords="5,155,104,181"/>
+<area shape="rect" id="node4" href="$classsgs__one__class__out.html" title="One&#45;class&#45;out SGS. " alt="" coords="129,155,263,181"/>
+<area shape="rect" id="node5" href="$classsgs__randsub__base.html" title="Random Sub&#45;sampling base class. " alt="" coords="288,155,417,181"/>
+<area shape="rect" id="node2" href="$classirobj.html" title="Base class. " alt="" coords="173,5,219,32"/>
+<area shape="rect" id="node6" href="$classsgs__randsub.html" title="Random Sub&#45;sampling. " alt="" coords="244,229,340,256"/>
+<area shape="rect" id="node7" href="$classsgs__weighted.html" title="Weighted Sub&#45;Sampling. " alt="" coords="365,229,467,256"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="blmisc_rows" name="blmisc_rows">
+<area shape="rect" id="node5" href="$classblmisc__rows__inliers.html" title="Select inliers only. " alt="" coords="459,5,595,32"/>
+<area shape="rect" id="node6" href="$classblmisc__rows__shuffle.html" title="Shuffles rows keeping spectra from the same group together or not. " alt="" coords="456,56,597,83"/>
+<area shape="rect" id="node7" href="$classblmisc__split.html" title="Base class for blocks that split one dataset into many. " alt="" coords="481,107,572,133"/>
+<area shape="rect" id="node2" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="203,56,263,83"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="101,56,155,83"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="6,56,53,83"/>
+<area shape="rect" id="node8" href="$classblmisc__split__classes.html" title="Splits dataset into many according to classes. " alt="" coords="651,5,794,32"/>
+<area shape="rect" id="node9" href="$classblmisc__split__groups.html" title="Splits dataset per group, one dataset per group. " alt="" coords="654,56,791,83"/>
+<area shape="rect" id="node10" href="$classblmisc__split__ovo.html" title="One&#45;Versus&#45;One dataset split class combination. " alt="" coords="663,107,782,133"/>
+<area shape="rect" id="node11" href="$classblmisc__split__ovr.html" title="One&#45;Versus&#45;Reference dataset split class combination. " alt="" coords="665,157,781,184"/>
+<area shape="rect" id="node12" href="$classblmisc__split__proportion.html" title="Splits dataset in two according to proportion specified. " alt="" coords="645,208,800,235"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="estlog_rightwrong" name="estlog_rightwrong">
+<area shape="rect" id="node2" href="$classestlog.html" title="Estimation logs base class. " alt="" coords="38,229,95,256"/>
+<area shape="rect" id="node3" href="$classttlog.html" title="Train&#45;Test Log. " alt="" coords="43,155,89,181"/>
+<area shape="rect" id="node4" href="$classirlog.html" title="Log base class. " alt="" coords="43,80,89,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="43,5,89,32"/>
+</map>

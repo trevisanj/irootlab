@@ -1,0 +1,7 @@
+<map id="bmart" name="bmart">
+<area shape="rect" id="node3" href="$classbmart__circle.html" title="Art stuff. " alt="" coords="5,155,99,181"/>
+<area shape="rect" id="node4" href="$classbmart__diamond.html" title="Art stuff. " alt="" coords="123,155,233,181"/>
+<area shape="rect" id="node5" href="$classbmart__pentagram.html" title="Art stuff. " alt="" coords="259,155,381,181"/>
+<area shape="rect" id="node6" href="$classbmart__square.html" title="Art stuff. " alt="" coords="405,155,507,181"/>
+<area shape="rect" id="node2" href="$classirobj.html" title="Base class. " alt="" coords="226,5,272,32"/>
+</map>

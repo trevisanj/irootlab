@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['r',['R',['../classclssr__d.html#ab97534bbd2cfe0c67193b3da6803ab10',1,'clssr_d']]],
+  ['randomseed',['randomseed',['../classreptt__hiesplit.html#a8d2f03b2e4cb7997b08782c46920dd01',1,'reptt_hiesplit::randomseed()'],['../classsgs.html#a57ec14ab923bf71a67c7c2778df8eba2',1,'sgs::randomseed()']]],
+  ['range',['range',['../classblmisc__fearange.html#a6b05528380eee6b19ab85a19bea3f310',1,'blmisc_fearange::range()'],['../classpre__sigwindow.html#a4d8fcf6e370aa7f4e05c82ce5b7e9709',1,'pre_sigwindow::range()'],['../classdataio__txt__basic.html#af20862c1773db4771f0ef7ee6b6f642a',1,'dataio_txt_basic::range()'],['../classdataio__txt__libsvm.html#a378fb7f4377be5e5808303edbce8cd00',1,'dataio_txt_libsvm::range()']]],
+  ['ranges',['ranges',['../classblmisc__rowsout__uni.html#aec8bb467b922c50603700a96cf2fea51',1,'blmisc_rowsout_uni']]],
+  ['ratemode',['ratemode',['../classestlog__classxclass.html#ae59cd35acc15157198981626f7bbc8bd',1,'estlog_classxclass']]],
+  ['rates',['rates',['../classclssr__incr.html#ab734ef71adc664465dcdb063a67a3778',1,'clssr_incr']]],
+  ['record_5fevery',['record_every',['../classreptt__incr.html#a61da12cd1564d94b288f5cc561146a79',1,'reptt_incr::record_every()'],['../classclssr__incr.html#afa99f62e4500d59fa635b2daf809c663',1,'clssr_incr::record_every()']]],
+  ['refblock',['refblock',['../classgencode.html#afafdae6ac7e46489bd6d632e3cd1fca8',1,'gencode']]],
+  ['removers',['removers',['../classblmisc__rowsout__multistage.html#a6863042208501c15bd0e9e54e614b69f',1,'blmisc_rowsout_multistage']]],
+  ['results',['results',['../classreptt__incr.html#a6315a2a83790211b24179170a1b7c2b3',1,'reptt_incr']]],
+  ['root',['root',['../classclassmap.html#a8d82d49891c7992696132363728e32a6',1,'classmap']]],
+  ['rots',['rots',['../classvis__scatter3dgif.html#ac1fc4086d880bc80acc4523ac385a55a',1,'vis_scatter3dgif']]],
+  ['rowdata',['rowdata',['../classbmtable.html#a1b425608ae68f53d7cf9780acfccbe95',1,'bmtable']]],
+  ['rowfieldnames',['rowfieldnames',['../classirdata.html#aea6fb3cb9c789e98cef63bab829d5726',1,'irdata']]],
+  ['rowlabels',['rowlabels',['../classirconfusion.html#aa402a590410b10122a2f54455520792c',1,'irconfusion']]],
+  ['rowname_5fj',['rowname_j',['../classbmtable.html#aa3b116c822d269ece77bb36f96ae71bb',1,'bmtable']]],
+  ['rowname_5ftype',['rowname_type',['../classbmtable.html#abbd52a84e925a6298706af17b3ff4397',1,'bmtable']]],
+  ['rownames',['rownames',['../classlog__celldata.html#afbbc48ea8b4f66f0cfdbabadc61bbfcd',1,'log_celldata']]]
+];

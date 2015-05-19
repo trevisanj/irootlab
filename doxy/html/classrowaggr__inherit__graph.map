@@ -1,0 +1,16 @@
+<map id="rowaggr" name="rowaggr">
+<area shape="rect" id="node5" href="$classesag.html" title="Estimation Aggregator &#45; combines estimato objects together. " alt="" coords="137,304,188,331"/>
+<area shape="rect" id="node8" href="$classgrag.html" title="Group Aggregator &#45; combines data rows outputting one row per group. " alt="" coords="253,304,299,331"/>
+<area shape="rect" id="node14" href="$classrowaggr__means.html" title="rowaggr_means" alt="" coords="324,304,439,331"/>
+<area shape="rect" id="node15" href="$classrowaggr__nmean.html" title="rowaggr_nmean" alt="" coords="463,304,577,331"/>
+<area shape="rect" id="node2" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="298,155,357,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="301,80,355,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="305,5,351,32"/>
+<area shape="rect" id="node6" href="$classesag__linear1.html" title="Estimation Aggregator &#45; Linear Combination of datasets. " alt="" coords="5,379,99,405"/>
+<area shape="rect" id="node7" href="$classesag__wta.html" title="Estimation Aggregator &#45; Winner takes all. " alt="" coords="123,379,201,405"/>
+<area shape="rect" id="node9" href="$classgrag__classes.html" title="Group Aggregator &#45; classes. " alt="" coords="227,379,325,405"/>
+<area shape="rect" id="node13" href="$classgrag__mean.html" title="Group Aggregator &#45; averages rows per group. " alt="" coords="350,379,436,405"/>
+<area shape="rect" id="node10" href="$classgrag__classes__first.html" title="Group Aggregator &#45; Classes &#45; First row. " alt="" coords="59,453,187,480"/>
+<area shape="rect" id="node11" href="$classgrag__classes__vote.html" title="Group Aggregator &#45; Classes &#45; Vote. " alt="" coords="211,453,340,480"/>
+<area shape="rect" id="node12" href="$classgrag__classes__votew.html" title="Group Aggregator &#45; Classes &#45; Weighted Vote. " alt="" coords="365,453,505,480"/>
+</map>

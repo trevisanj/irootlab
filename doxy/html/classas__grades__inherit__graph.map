@@ -1,0 +1,7 @@
+<map id="as_grades" name="as_grades">
+<area shape="rect" id="node5" href="$classas__grades__fsg.html" title="Calculates grades using a Feature Subset Grader (FSG) object. " alt="" coords="5,304,112,331"/>
+<area shape="rect" id="node6" href="$classas__grades__loadings.html" title="Loadings vector becomes the grades vector. " alt="" coords="137,304,273,331"/>
+<area shape="rect" id="node2" href="$classas.html" title="Analysis Session (AS) base class. " alt="" coords="113,155,151,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="105,80,159,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="109,5,155,32"/>
+</map>

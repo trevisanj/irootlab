@@ -1,0 +1,23 @@
+<map id="clssr" name="clssr">
+<area shape="rect" id="node4" href="$classaggr.html" title="Base class for all ensemble classifiers. " alt="" coords="322,183,369,209"/>
+<area shape="rect" id="node13" href="$classclssr__ann.html" title="Neural Network Classifier. This is a wrapper to MATLAB&#39;s Neural Networks Toolbox. ..." alt="" coords="306,233,385,260"/>
+<area shape="rect" id="node14" href="$classclssr__d.html" title="Linear and Quadratic discriminant. " alt="" coords="313,284,377,311"/>
+<area shape="rect" id="node15" href="$classclssr__dist.html" title="Least&#45;Distance&#45;to&#45;Class&#45;Mean Classifier. " alt="" coords="306,335,385,361"/>
+<area shape="rect" id="node16" href="$classclssr__incr.html" title="Base class for Incremental Classifiers. " alt="" coords="306,385,385,412"/>
+<area shape="rect" id="node17" href="$classclssr__knn.html" title="k&#45;Nearest Neighbours Classifier " alt="" coords="306,436,385,463"/>
+<area shape="rect" id="node18" href="$classclssr__lasso.html" title="Lasso Classifier. " alt="" coords="301,487,389,513"/>
+<area shape="rect" id="node19" href="$classclssr__ls.html" title="Least&#45;squares classifier. " alt="" coords="312,537,379,564"/>
+<area shape="rect" id="node20" href="$classclssr__mnr.html" title="Logistic Regression Classifier. " alt="" coords="306,588,385,615"/>
+<area shape="rect" id="node21" href="$classclssr__svm.html" title="Support Vector Machine Classifier using LibSVM. " alt="" coords="304,639,387,665"/>
+<area shape="rect" id="node22" href="$classclssr__tree.html" title="Binary Decision Tree Classifier. " alt="" coords="306,689,385,716"/>
+<area shape="rect" id="node2" href="$classblock.html" title="Base Block class. " alt="" coords="101,436,155,463"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="6,436,53,463"/>
+<area shape="rect" id="node5" href="$classaggr__adaboost.html" title="Adaboost. " alt="" coords="437,5,544,32"/>
+<area shape="rect" id="node6" href="$classaggr__bag.html" title="Bagging ensemble. " alt="" coords="453,56,528,83"/>
+<area shape="rect" id="node7" href="$classaggr__hiesplit.html" title="Class&#45;Hierarchical Training Data Split. " alt="" coords="443,107,538,133"/>
+<area shape="rect" id="node8" href="$classaggr__mold.html" title="Fixed, pre&#45;determined components. " alt="" coords="449,157,532,184"/>
+<area shape="rect" id="node9" href="$classaggr__obsidxs.html" title="Pre&#45;determined dataset splits. " alt="" coords="441,208,540,235"/>
+<area shape="rect" id="node10" href="$classaggr__ova.html" title="One&#45;versus&#45;all classifier. " alt="" coords="453,259,528,285"/>
+<area shape="rect" id="node11" href="$classaggr__ovc.html" title="One&#45;versus&#45;&quot;control&quot; classifier. " alt="" coords="453,309,528,336"/>
+<area shape="rect" id="node12" href="$classaggr__pairs.html" title="Pairwise classifier. " alt="" coords="449,360,532,387"/>
+</map>

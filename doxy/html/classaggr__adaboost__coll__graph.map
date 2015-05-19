@@ -1,0 +1,6 @@
+<map id="aggr_adaboost" name="aggr_adaboost">
+<area shape="rect" id="node2" href="$classaggr.html" title="Base class for all ensemble classifiers. " alt="" coords="35,229,81,256"/>
+<area shape="rect" id="node3" href="$classclssr.html" title="Classifiers base class. " alt="" coords="33,155,84,181"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="32,80,85,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="35,5,81,32"/>
+</map>

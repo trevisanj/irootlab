@@ -1,0 +1,26 @@
+var classlog__html =
+[
+    [ "log_html", "classlog__html.html#abb0d8aac7982437a7a5a14445e94aad4", null ],
+    [ "do_get_html", "classlog__html.html#ac2d6e9da700afcdf30a1552bb1e4bc9a", null ],
+    [ "do_get_report", "classlog__html.html#aef7d12c3382659e8218f75a78c91e30a", null ],
+    [ "extract_log", "classlog__html.html#a21a80216f7d2ff939fea4e1d284bb2a1", null ],
+    [ "get_ancestry", "classlog__html.html#a7da86e90b80e052ded5783dc76fe6ef0", null ],
+    [ "get_description", "classlog__html.html#a858118b6e5102d45f06fd377ef2c7dfc", null ],
+    [ "get_embodied", "classlog__html.html#a43e1e9ca8f9f71247fbe4ed0903d17d2", null ],
+    [ "get_html", "classlog__html.html#ab767a983a9e15cb8d31fa46638c992b5", null ],
+    [ "get_methodname", "classlog__html.html#a801bd321dd89532ab1d779d97ab32b46", null ],
+    [ "get_params", "classlog__html.html#a2292265ecbcd7f7caa19147eb33a9e4b", null ],
+    [ "get_report", "classlog__html.html#ad3c16fb9b5792dee72d6ed53d2d9fa28", null ],
+    [ "open_in_browser", "classlog__html.html#a79932d4c5f5744871c69fb7d14feaac7", null ],
+    [ "save", "classlog__html.html#a256959054c28a0242a571beff25bb5c2", null ],
+    [ "setbatch", "classlog__html.html#a4f899ac95812b9eb629ace901f43fab1", null ],
+    [ "classtitle", "classlog__html.html#a2d094de760a3eab13f10848d2845b64f", null ],
+    [ "color", "classlog__html.html#a7ae029f8256a0ff3b30999cbbe16d36d", null ],
+    [ "filename", "classlog__html.html#aca68e3fe8cb284c8d015a65b48672a4a", null ],
+    [ "flag_params", "classlog__html.html#ab4740bd1463621cfb4aeae3ad918d353", null ],
+    [ "flag_ui", "classlog__html.html#a8dbb2f7fea7c7c6fa0e7d264094668f1", null ],
+    [ "html", "classlog__html.html#a0d6406a1867ba19c370421fb5ac5b4d8", null ],
+    [ "moreactions", "classlog__html.html#a99fa907daa9663001beca5e6b89b8bad", null ],
+    [ "short", "classlog__html.html#ab63d7d8101cbfb8b1ba446abf1eba235", null ],
+    [ "title", "classlog__html.html#aa520bf025229210912c86c4ecd901bf5", null ]
+];

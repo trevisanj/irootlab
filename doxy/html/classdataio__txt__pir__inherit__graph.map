@@ -1,0 +1,5 @@
+<map id="dataio_txt_pir" name="dataio_txt_pir">
+<area shape="rect" id="node4" href="$classdataio__txt__pir__image.html" title="Derives from dataio_txt_pir; just sets flag_params to open GUI when opening file. ..." alt="" coords="5,229,147,256"/>
+<area shape="rect" id="node2" href="$classdataio.html" title="Dataset loader/saver common class. " alt="" coords="47,80,104,107"/>
+<area shape="rect" id="node3" href="$classirobj.html" title="Base class. " alt="" coords="53,5,99,32"/>
+</map>

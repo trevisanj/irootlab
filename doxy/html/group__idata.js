@@ -1,0 +1,25 @@
+var group__idata =
+[
+    [ "fig_assert.m", "fig__assert_8m.html", null ],
+    [ "fig_reset.m", "fig__reset_8m.html", null ],
+    [ "draw_hachure.m", "draw__hachure_8m.html", null ],
+    [ "draw_hachure2.m", "draw__hachure2_8m.html", null ],
+    [ "def_biocomparer.m", "def__biocomparer_8m.html", null ],
+    [ "def_clssr.m", "def__clssr_8m.html", null ],
+    [ "def_fsg_testtable.m", "def__fsg__testtable_8m.html", null ],
+    [ "def_peakdetector.m", "def__peakdetector_8m.html", null ],
+    [ "def_postpr_est.m", "def__postpr__est_8m.html", null ],
+    [ "def_postpr_test.m", "def__postpr__test_8m.html", null ],
+    [ "def_sgs.m", "def__sgs_8m.html", null ],
+    [ "def_subsetsprocessor.m", "def__subsetsprocessor_8m.html", null ],
+    [ "def_subsetsprocessors.m", "def__subsetsprocessors_8m.html", null ],
+    [ "get_cite.m", "get__cite_8m.html", null ],
+    [ "get_credits.m", "get__credits_8m.html", null ],
+    [ "get_excludevarnames.m", "get__excludevarnames_8m.html", null ],
+    [ "get_negative_meaning.m", "get__negative__meaning_8m.html", null ],
+    [ "get_welcome.m", "get__welcome_8m.html", null ],
+    [ "peak_db.m", "peak__db_8m.html", null ],
+    [ "stylesheet.m", "stylesheet_8m.html", null ],
+    [ "db_assert.m", "db__assert_8m.html", null ],
+    [ "irootlab_version.m", "irootlab__version_8m.html", null ]
+];

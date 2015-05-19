@@ -1,0 +1,7 @@
+<map id="report_log_fselrepeater_histcomp" name="report_log_fselrepeater_histcomp">
+<area shape="rect" id="node2" href="$classreport__soitem.html" title="Base for all reports that operate on a soitem object. " alt="" coords="31,304,132,331"/>
+<area shape="rect" id="node3" href="$classirreport.html" title="Report base class. " alt="" coords="50,229,112,256"/>
+<area shape="rect" id="node4" href="$classvis.html" title="Visualization base class. " alt="" coords="62,155,100,181"/>
+<area shape="rect" id="node5" href="$classblock.html" title="Base Block class. " alt="" coords="55,80,108,107"/>
+<area shape="rect" id="node6" href="$classirobj.html" title="Base class. " alt="" coords="58,5,104,32"/>
+</map>

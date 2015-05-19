@@ -1,0 +1,7 @@
+<map id="blmisc_classes" name="blmisc_classes">
+<area shape="rect" id="node5" href="$classblmisc__classes__from__clus.html" title="Assign classes from one data column from an irdata_clus object. " alt="" coords="5,304,181,331"/>
+<area shape="rect" id="node6" href="$classblmisc__classes__random.html" title="Randomizes classes. " alt="" coords="205,304,368,331"/>
+<area shape="rect" id="node2" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="159,155,219,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="163,80,216,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="166,5,212,32"/>
+</map>

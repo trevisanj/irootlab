@@ -1,0 +1,26 @@
+<map id="irreport" name="irreport">
+<area shape="rect" id="node5" href="$classreport__default.html" title="report_default" alt="" coords="447,87,548,113"/>
+<area shape="rect" id="node6" href="$classreport__estlog.html" title="estlog &#39;s HTML (confusion matrices) " alt="" coords="449,137,546,164"/>
+<area shape="rect" id="node7" href="$classreport__log__fselrepeater__hist.html" title="Single histogram report. " alt="" coords="406,188,589,215"/>
+<area shape="rect" id="node8" href="$classreport__log__gridsearch.html" title="Shows best parameters at each. " alt="" coords="424,239,571,265"/>
+<area shape="rect" id="node9" href="$classreport__soitem.html" title="Base for all reports that operate on a soitem object. " alt="" coords="447,289,548,316"/>
+<area shape="rect" id="node21" href="$classreport__sovalues__comparison.html" title="Comparison and p&#45;values tables. " alt="" coords="403,340,591,367"/>
+<area shape="rect" id="node22" href="$classreport__testtable.html" title="report_testtable" alt="" coords="441,391,553,417"/>
+<area shape="rect" id="node23" href="$classreport__ttlog.html" title="ttlog &#39;s HTML (confusion matrices " alt="" coords="454,441,541,468"/>
+<area shape="rect" id="node24" href="$classreport__ttlog__generic.html" title="ttlog_generic &#39;s HTML (confusion matrices) " alt="" coords="429,492,565,519"/>
+<area shape="rect" id="node25" href="$classreportmerger.html" title="Merges contents of many log_html. " alt="" coords="450,543,545,569"/>
+<area shape="rect" id="node2" href="$classvis.html" title="Visualization base class. " alt="" coords="203,315,242,341"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="101,315,155,341"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="6,315,53,341"/>
+<area shape="rect" id="node10" href="$classreport__log__fselrepeater__histcomp.html" title="Histograms and biomarkers comparison using various subsetsprocessor objects. " alt="" coords="656,5,811,46"/>
+<area shape="rect" id="node11" href="$classreport__soitem__fhg__hist.html" title="Single histogram report. Passes on to report_log_fselrepeater_hist. " alt="" coords="656,71,811,97"/>
+<area shape="rect" id="node12" href="$classreport__soitem__fhg__histcomp.html" title="Passes on to report_log_fselrepeater_histcomp. " alt="" coords="640,121,827,148"/>
+<area shape="rect" id="node13" href="$classreport__soitem__foldmerger__fitest.html" title="Passes on to report_estlog, to show confusion matrices. " alt="" coords="649,173,818,214"/>
+<area shape="rect" id="node14" href="$classreport__soitem__fs.html" title="Plots the (nf)x(rates) curve. " alt="" coords="674,239,793,265"/>
+<area shape="rect" id="node15" href="$classreport__soitem__items.html" title="Shows curves or images from foldmerge of some model selection (e.g. clarchsel or fearchsel) ..." alt="" coords="663,289,803,316"/>
+<area shape="rect" id="node16" href="$classreport__soitem__merger__fhg.html" title="Histograms ane Biomarkers comparison tables &#45; Several set&#45;ups (including stabilizations). Comparisons using histograms, biomarker comparison tables/(heat maps). " alt="" coords="647,340,820,367"/>
+<area shape="rect" id="node17" href="$classreport__soitem__merger__merger__fhg.html" title="report_soitem_merger\l_merger_fhg" alt="" coords="659,391,807,433"/>
+<area shape="rect" id="node18" href="$classreport__soitem__merger__merger__fitest.html" title="report_soitem_merger\l_merger_fitest" alt="" coords="659,457,807,498"/>
+<area shape="rect" id="node19" href="$classreport__soitem__merger__merger__fitest__1d.html" title="1D comparison table " alt="" coords="659,522,807,563"/>
+<area shape="rect" id="node20" href="$classreport__soitem__sovalues.html" title="Comparison and p&#45;values tables. " alt="" coords="653,588,813,615"/>
+</map>

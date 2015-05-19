@@ -1,0 +1,11 @@
+<map id="fsg" name="fsg">
+<area shape="rect" id="node3" href="$classfsg__clssr.html" title="FSG that uses classifier to grade the subsets. " alt="" coords="263,155,336,181"/>
+<area shape="rect" id="node4" href="$classfsg__test.html" title="Feature subset grader that uses a statistical test. " alt="" coords="361,155,431,181"/>
+<area shape="rect" id="node2" href="$classirobj.html" title="Base class. " alt="" coords="325,5,371,32"/>
+<area shape="rect" id="node5" href="$classfsg__test__anova.html" title="Feature subset grader &#45; ANOVA. " alt="" coords="5,229,115,256"/>
+<area shape="rect" id="node6" href="$classfsg__test__fisher.html" title="fsg_test_fisher" alt="" coords="139,229,247,256"/>
+<area shape="rect" id="node7" href="$classfsg__test__manova.html" title="Feature subset grader &#45; MANOVA. " alt="" coords="272,229,395,256"/>
+<area shape="rect" id="node8" href="$classfsg__test__t.html" title="Feature subset grader &#45; t&#45;test. " alt="" coords="419,229,497,256"/>
+<area shape="rect" id="node9" href="$classfsg__test__u.html" title="Feature subset grader &#45; Mann&#45;Whitney &quot;U&quot;&#45;test. " alt="" coords="523,229,604,256"/>
+<area shape="rect" id="node10" href="$classfsg__test__var.html" title="Feature subset grader &#45; variance. " alt="" coords="630,229,724,256"/>
+</map>

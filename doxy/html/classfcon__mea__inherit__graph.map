@@ -1,0 +1,14 @@
+<map id="fcon_mea" name="fcon_mea">
+<area shape="rect" id="node6" href="$classfcon__mea__area.html" title="area " alt="" coords="525,5,635,32"/>
+<area shape="rect" id="node7" href="$classfcon__mea__maha.html" title="Mahalanobis distance. " alt="" coords="521,56,639,83"/>
+<area shape="rect" id="node8" href="$classfcon__mea__max.html" title="Maximum over all features. " alt="" coords="525,107,635,133"/>
+<area shape="rect" id="node9" href="$classfcon__mea__mean.html" title="mean " alt="" coords="521,157,639,184"/>
+<area shape="rect" id="node10" href="$classfcon__mea__min.html" title="Minimum over all features. " alt="" coords="527,208,633,235"/>
+<area shape="rect" id="node11" href="$classfcon__mea__norm.html" title="Norm. " alt="" coords="523,259,637,285"/>
+<area shape="rect" id="node12" href="$classfcon__mea__pick.html" title="Picks region area, region peak, or value at fixed x&#45;position. " alt="" coords="525,309,635,336"/>
+<area shape="rect" id="node13" href="$classfcon__mea__ratio.html" title="Ratio between the X matrix of two datasets. " alt="" coords="525,360,635,387"/>
+<area shape="rect" id="node2" href="$classfcon.html" title="Feature Construction (FCon) base class. " alt="" coords="297,183,343,209"/>
+<area shape="rect" id="node3" href="$classfext.html" title="Feature Extraction (Fext) base class. " alt="" coords="203,183,247,209"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="101,183,155,209"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="6,183,53,209"/>
+</map>

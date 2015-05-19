@@ -1,0 +1,10 @@
+<map id="blmisc_rowsout_uni" name="blmisc_rowsout_uni">
+<area shape="rect" id="node6" href="$classblmisc__rowsout__distr.html" title="Distribution&#45;Based Outlier Removal. " alt="" coords="89,379,233,405"/>
+<area shape="rect" id="node9" href="$classblmisc__rowsout__ranges.html" title="Outlier removal by Ranges. " alt="" coords="258,379,416,405"/>
+<area shape="rect" id="node2" href="$classblmisc__rowsout.html" title="Outlier Removal base class. " alt="" coords="193,229,305,256"/>
+<area shape="rect" id="node3" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="219,155,279,181"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="223,80,276,107"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="226,5,272,32"/>
+<area shape="rect" id="node7" href="$classblmisc__rowsout__hist.html" title="Outlier removal by Histogram. " alt="" coords="5,453,145,480"/>
+<area shape="rect" id="node8" href="$classblmisc__rowsout__kernel.html" title="Outlier removal by Kernel distribution estimation. " alt="" coords="171,453,324,480"/>
+</map>

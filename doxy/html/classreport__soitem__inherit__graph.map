@@ -1,0 +1,17 @@
+<map id="report_soitem" name="report_soitem">
+<area shape="rect" id="node6" href="$classreport__log__fselrepeater__histcomp.html" title="Histograms and biomarkers comparison using various subsetsprocessor objects. " alt="" coords="568,5,723,46"/>
+<area shape="rect" id="node7" href="$classreport__soitem__fhg__hist.html" title="Single histogram report. Passes on to report_log_fselrepeater_hist. " alt="" coords="568,71,723,97"/>
+<area shape="rect" id="node8" href="$classreport__soitem__fhg__histcomp.html" title="Passes on to report_log_fselrepeater_histcomp. " alt="" coords="552,121,739,148"/>
+<area shape="rect" id="node9" href="$classreport__soitem__foldmerger__fitest.html" title="Passes on to report_estlog, to show confusion matrices. " alt="" coords="561,173,730,214"/>
+<area shape="rect" id="node10" href="$classreport__soitem__fs.html" title="Plots the (nf)x(rates) curve. " alt="" coords="586,239,705,265"/>
+<area shape="rect" id="node11" href="$classreport__soitem__items.html" title="Shows curves or images from foldmerge of some model selection (e.g. clarchsel or fearchsel) ..." alt="" coords="575,289,715,316"/>
+<area shape="rect" id="node12" href="$classreport__soitem__merger__fhg.html" title="Histograms ane Biomarkers comparison tables &#45; Several set&#45;ups (including stabilizations). Comparisons using histograms, biomarker comparison tables/(heat maps). " alt="" coords="559,340,732,367"/>
+<area shape="rect" id="node13" href="$classreport__soitem__merger__merger__fhg.html" title="report_soitem_merger\l_merger_fhg" alt="" coords="571,391,719,433"/>
+<area shape="rect" id="node14" href="$classreport__soitem__merger__merger__fitest.html" title="report_soitem_merger\l_merger_fitest" alt="" coords="571,457,719,498"/>
+<area shape="rect" id="node15" href="$classreport__soitem__merger__merger__fitest__1d.html" title="1D comparison table " alt="" coords="571,522,719,563"/>
+<area shape="rect" id="node16" href="$classreport__soitem__sovalues.html" title="Comparison and p&#45;values tables. " alt="" coords="565,588,725,615"/>
+<area shape="rect" id="node2" href="$classirreport.html" title="Report base class. " alt="" coords="291,289,354,316"/>
+<area shape="rect" id="node3" href="$classvis.html" title="Visualization base class. " alt="" coords="203,289,242,316"/>
+<area shape="rect" id="node4" href="$classblock.html" title="Base Block class. " alt="" coords="101,289,155,316"/>
+<area shape="rect" id="node5" href="$classirobj.html" title="Base class. " alt="" coords="6,289,53,316"/>
+</map>

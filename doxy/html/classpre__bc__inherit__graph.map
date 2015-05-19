@@ -1,0 +1,9 @@
+<map id="pre_bc" name="pre_bc">
+<area shape="rect" id="node5" href="$classpre__bc__asls.html" title="Asymmetric Least&#45;Squares Baseline Correction. " alt="" coords="5,304,96,331"/>
+<area shape="rect" id="node6" href="$classpre__bc__poly.html" title="Polynomial Baseline Correction. " alt="" coords="121,304,212,331"/>
+<area shape="rect" id="node7" href="$classpre__bc__rmiesc.html" title="Paul Bassan&#39;s Resonant Mie Scattering Correction. " alt="" coords="237,304,344,331"/>
+<area shape="rect" id="node8" href="$classpre__bc__rubber.html" title="Convex Polygonal Line (Rubberband&#45;like) Baseline Correction. " alt="" coords="368,304,472,331"/>
+<area shape="rect" id="node2" href="$classpre.html" title="Pre&#45;processing block base class. " alt="" coords="208,155,247,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="201,80,255,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="205,5,251,32"/>
+</map>

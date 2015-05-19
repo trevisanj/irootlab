@@ -1,0 +1,8 @@
+<map id="estlog" name="estlog">
+<area shape="rect" id="node5" href="$classestlog__classxclass.html" title="Records (test class)x([rejected, estimation class]) hits. " alt="" coords="5,304,139,331"/>
+<area shape="rect" id="node6" href="$classestlog__groupxclass.html" title="Records (test group)x([rejected, estimation class]) hits. " alt="" coords="163,304,297,331"/>
+<area shape="rect" id="node7" href="$classestlog__rightwrong.html" title="Records (1)x([rejected, right, wrong]) hits. " alt="" coords="322,304,445,331"/>
+<area shape="rect" id="node2" href="$classttlog.html" title="Train&#45;Test Log. " alt="" coords="207,155,253,181"/>
+<area shape="rect" id="node3" href="$classirlog.html" title="Log base class. " alt="" coords="207,80,253,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="207,5,253,32"/>
+</map>

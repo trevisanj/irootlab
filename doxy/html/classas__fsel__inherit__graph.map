@@ -1,0 +1,10 @@
+<map id="as_fsel" name="as_fsel">
+<area shape="rect" id="node5" href="$classas__fsel__eclass.html" title="eClass&#45;based feature selection " alt="" coords="5,304,115,331"/>
+<area shape="rect" id="node6" href="$classas__fsel__forward.html" title="Forward Feature Selection. " alt="" coords="139,304,253,331"/>
+<area shape="rect" id="node7" href="$classas__fsel__grades.html" title="Feature Selection based on a &quot;grades&quot; vector. " alt="" coords="278,304,388,331"/>
+<area shape="rect" id="node8" href="$classas__fsel__grades__super.html" title="&quot;Super&#45;object&quot; encapsulating both a as_fsel_grades and a as_grades_data object " alt="" coords="413,304,561,331"/>
+<area shape="rect" id="node9" href="$classas__fsel__lasso.html" title="LASSO feature selection. " alt="" coords="587,304,689,331"/>
+<area shape="rect" id="node2" href="$classas.html" title="Analysis Session (AS) base class. " alt="" coords="314,155,352,181"/>
+<area shape="rect" id="node3" href="$classblock.html" title="Base Block class. " alt="" coords="307,80,360,107"/>
+<area shape="rect" id="node4" href="$classirobj.html" title="Base class. " alt="" coords="310,5,356,32"/>
+</map>

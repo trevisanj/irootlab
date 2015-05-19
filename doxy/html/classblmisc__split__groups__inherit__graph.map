@@ -1,0 +1,7 @@
+<map id="blmisc_split_groups" name="blmisc_split_groups">
+<area shape="rect" id="node2" href="$classblmisc__split.html" title="Base class for blocks that split one dataset into many. " alt="" coords="28,304,119,331"/>
+<area shape="rect" id="node3" href="$classblmisc__rows.html" title="Base class for blocks that change a dataset row order. " alt="" coords="26,229,120,256"/>
+<area shape="rect" id="node4" href="$classblmisc.html" title="Miscellaneous block. " alt="" coords="43,155,103,181"/>
+<area shape="rect" id="node5" href="$classblock.html" title="Base Block class. " alt="" coords="47,80,100,107"/>
+<area shape="rect" id="node6" href="$classirobj.html" title="Base class. " alt="" coords="50,5,96,32"/>
+</map>

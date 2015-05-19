@@ -1,0 +1,7 @@
+<map id="bmunit" name="bmunit">
+<area shape="rect" id="node3" href="$classbmunit__au.html" title="Unit &#45; Arbitrary. " alt="" coords="5,155,87,181"/>
+<area shape="rect" id="node4" href="$classbmunit__hist.html" title="Unit &#45; HistogramSame as Integer, but plots as histogram (stem plot). Affects bmtable. " alt="" coords="113,155,201,181"/>
+<area shape="rect" id="node5" href="$classbmunit__int.html" title="Unit &#45; Integer. " alt="" coords="227,155,308,181"/>
+<area shape="rect" id="node6" href="$classbmunit__perc.html" title="Unit &#45; percentage. " alt="" coords="333,155,427,181"/>
+<area shape="rect" id="node2" href="$classirobj.html" title="Base class. " alt="" coords="189,5,235,32"/>
+</map>
