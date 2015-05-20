@@ -5,7 +5,7 @@
 % It will create a directory outside the "root" folder (where this file is in),
 % Called "../irootlab-<version>", where <version> will be picked by executing the file "irootlab_version.m" inside the "trunk" folder
 %
-% What is does, roughly:
+% What is does, orughly:
 % 1 Copy the whole "trunk" folder to "../irootlab-"<version>
 % 2 Copy whatever is inside "../last-generated-doc" to "../irootlab-<version>/doc"
 % 3 Zips the folder into "../irootlab-"<version> "../../irootlab_releases"
