@@ -1,25 +1,44 @@
-<!DOCTYPE html>
-<html lang="en-us">
+<!doctype html>
+<html>
   <head>
-    <meta charset="UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Irootlab by trevisanj</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="stylesheets/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">Irootlab</h1>
-      <h2 class="project-tagline">An open-source toolbox for biospectroscopy in MATLAB</h2>
-      <a href="https://github.com/trevisanj/irootlab" class="btn">View on GitHub</a>
-      <a href="https://github.com/trevisanj/irootlab/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/trevisanj/irootlab/tarball/master" class="btn">Download .tar.gz</a>
-    </section>
+      <div id="header">
+        <nav>
+          <li class="fork"><a href="https://github.com/trevisanj/irootlab">View On GitHub</a></li>
+          <li class="downloads"><a href="https://github.com/trevisanj/irootlab/zipball/master">ZIP</a></li>
+          <li class="downloads"><a href="https://github.com/trevisanj/irootlab/tarball/master">TAR</a></li>
+          <li class="title">DOWNLOADS</li>
+        </nav>
+      </div><!-- end header -->
 
-    <section class="main-content">
-      <h1>
+    <div class="wrapper">
+
+      <section>
+        <div id="title">
+          <h1>Irootlab</h1>
+          <p>An open-source toolbox for biospectroscopy in MATLAB</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/trevisanj">trevisanj</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
+
+        <h1>
 <a id="welcome-to-irootlab-page" class="anchor" href="#welcome-to-irootlab-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Welcome to irootlab page</h1>
 
 <p>irootLab is an open-source toolbox for vibrational spectroscopy data analysis in MATLAB. The project started in 2008 at Lancaster University, UK.</p>
@@ -121,32 +140,29 @@ must be present. All routines that contain parfor loops can also run in serial m
 <h1>
 <a id="downloads" class="anchor" href="#downloads" aria-hidden="true"><span class="octicon octicon-link"></span></a>Downloads</h1>
 
-<p><a href="http://trevisanj.github.io/irootlab/">http://trevisanj.github.io/irootlab/</a></p>
+<p><a href="http://trevisanj.github.io/irootlab/irootlab-0.15.05.19-j.zip">Most recent version of the toolbox (0.15.05.19-j)</a></p>
 
 <h2>
 <a id="tutorials" class="anchor" href="#tutorials" aria-hidden="true"><span class="octicon octicon-link"></span></a>Tutorials</h2>
 
+<p>Here are some tutorials to take you through the steps of some pipelines.</p>
+
+<p>Note: these tutorials do not exhaustively cover the possibilities of analysis. They are </p>
+
 <p><a href="doc/tutorials/cross-lda.docx">Cross-calculated LDA</a>
-feature-histograms.docx
-group-x-class.docx
-irootlab-pcalda.doc
-pca-ldc.docx
-pca-svm.docx
-pre-processing.docx
-soframework.doc
-svm.docx
-template_for_tutorials.dotx
-utest-per-wavenumber.docx</p>
+<a href="doc/tutorials/feature-histograms.docx">Feature histograms</a>
+<a href="doc/tutorials/group-x-class.docx">Group x class</a>
+<a href="doc/tutorials/irootlab-pcalda.doc">PCA-LDA</a>
+<a href="doc/tutorials/pca-ldc.docx">PCA-LDC</a>
+<a href="doc/tutorials/svm.docx">Suport vector machine (SVM)</a>
+<a href="doc/tutorials/pca-svm.docx">PCA-SVM</a>
+<a href="doc/tutorials/pre-processing.docx">Pre-processing</a>
+<a href="doc/tutorials/utest-per-wavenumber.docx">U-test per wavenumber</a>
+<a href="doc/tutorials/soframework.doc">System optimization framework</a></p>
+      </section>
 
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/trevisanj/irootlab">Irootlab</a> is maintained by <a href="https://github.com/trevisanj">trevisanj</a>.</span>
-
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
-      </footer>
-
-    </section>
-
-  
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
   </body>
 </html>
-
