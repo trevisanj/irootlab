@@ -16,5 +16,5 @@ if isempty(PATH)
     % default documentation path
 %     path = get_rootdir();
 %     PATH.doc = fullfile(path, 'doc');
-    PATH.doc = 'http://bioph.lancs.ac.uk/irootdoc';
+    PATH.doc = 'http://trevisanj.github.io/irootlab/doxy';
 end;

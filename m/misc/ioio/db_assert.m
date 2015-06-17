@@ -6,7 +6,7 @@
 function db_assert()
 global DB;
 if isempty(DB)
-    DB.host = 'bioph.lancs.ac.uk';
+    DB.host = 'bioph.lancs.ac.uk';  % No longer exists, but I don't have an alternative atm
     DB.user = 'cells_user';
     DB.pass = 'meogrrk';
     DB.name = 'cells';
