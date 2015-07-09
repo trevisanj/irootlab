@@ -144,6 +144,7 @@ classdef dataio_txt_irootlab < dataio
             data.filename = o.filename;
             data.filetype = 'txt_irootlab';
             data = data.make_groupnumbers();
+            data = data.assert_fix();
         end;
     
         
