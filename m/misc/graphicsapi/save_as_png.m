@@ -10,7 +10,7 @@ function save_as_png(h, fn, dpi)
 pause(0.1); % It may be work to let MATLAB get sorted before saving
 
 if nargin < 1 || isempty(h)
-    if is_2014' % Working around changes starting from R2014a
+    if is_2014 % Working around changes starting from R2014a
         f = gcf();
         h = f.Number;
     else
