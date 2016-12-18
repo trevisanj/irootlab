@@ -12,6 +12,7 @@
 %> @arg "Pirouette .DAT" text format
 %> @arg OPUS binary format
 %> @arg Wire TXT format
+%> @arg Wire (2016) TXT format (dubbed "Mary")
 %>
 %> <b>File filter</b> - wildcard filter. Examples: <code>*.*</code>; <code>*.dat</code>; <code>*.DAT</code>
 %>
@@ -112,7 +113,7 @@ add_log([repmat(' ', 1, idx2-1), msg]);
 % Returns a stru with .filetype, .wild, .trimdot, .flag_image, .height
 function stru = get_window_settings()
 handles = find_handles();
-stypes = {'pir', 'opus', 'wire'};
+stypes = {'pir', 'opus', 'wire', 'mary'};
 try
     stru.filetype = stypes{get(handles.popupmenu_type, 'value')};
     stru.wild = get_wild();
@@ -301,7 +302,7 @@ function pushbutton_detect_Callback(hObject, eventdata, handles)
 s = detect_spectrum_type(get_wild());
 if ~isempty(s)
     handles = find_handles();
-    i_type = find(strcmp(s, {'pir', 'opus', 'wire'}));
+    i_type = find(strcmp(s, {'pir', 'opus', 'wire', 'mary'}));
     set(handles.popupmenu_type, 'Value', i_type);
     add_log(sprintf('Detected file type: "%s"', s));
 else
