@@ -20,7 +20,7 @@ end;
 
 wild_new = fullfile(fileparts(wild), filenames{1});
 
-totry = {'pir', 'opus', 'wire', 'mary', 'diane'};
+totry = get_spfile_prefixes();
 
 for it = 1:numel(totry)
     flag_ok = 0;

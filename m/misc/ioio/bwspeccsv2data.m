@@ -1,6 +1,6 @@
 %>@ingroup ioio
 %>@file
-%> @brief Merges several "Wire 2016 txt" files into a dataset
+%> @brief Merges several "BWSpec CSV" files into a dataset
 %>
 %> @c data.groupcodes is made from file name. File name is trimmed at the trimdot-th dot counted from right to left. E.g., 
 %> This allows one to trim "sample.0.dat" at the penultimate dot (ignodedoctount=2) or "sample.dat" at the last dot
@@ -10,6 +10,8 @@
 %>
 %> For reference on parameters, please check @ref mergetool.m
 %>
+%> @todo this is quite the same as diane2data.m except for one different function call! 
+%>
 %> @sa mergetool.m
 
 %> @param wild
@@ -17,7 +19,7 @@
 %> @param flag_image
 %> @param height
 %> @return A dataset
-function [data, flag_error] = diane2data(wild, trimdot, flag_image, height)
+function [data, flag_error] = bwspeccsv2data(wild, trimdot, flag_image, height)
 
 if ~exist('trimdot', 'var')
     trimdot = 2;
@@ -43,15 +45,17 @@ end;
 data = irdata();
 
 flag_first = 1;
-ipro = progress2_open('DIANE2DATA', [], 0, no_files);
+ipro = progress2_open('BWSPECCSV2DATA', [], 0, no_files);
 cnt_error = 0;
 errors = {};
 ii = 0;
+nf = 0;
 for i = 1:no_files
     filename = fullfile(path_, filenames{i});
     try
-        M = diane2matrix(filename);
-
+        % single-spectrum-file-type-specific
+        M = bwspeccsv2matrix(filename, nf);
+        
         if flag_first
             wns = M(:, 1)';
             nf = numel(wns);
@@ -59,7 +63,7 @@ for i = 1:no_files
             % Checks against previous size
             n1 = size(M, 1);
             if ~(n1 == nf)
-                irerror(sprintf('Diane2Data: Wrong number of data points: expected=%d; found=%d', nf, n1));
+                irerror(sprintf('bwspeccsv2data: Wrong number of data points: expected=%d; found=%d', nf, n1));
             end;
         end;
         

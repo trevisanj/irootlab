@@ -8,11 +8,7 @@
 %> file sizes. These may be invalid spectra.
 %> @attention Never use directory names nor file names containing single quotes (" ' "). They are not handled properly by mergetool, and will cause the operation to fail.
 %>
-%> <b>File type</b> - Currently supported types are:
-%> @arg "Pirouette .DAT" text format
-%> @arg OPUS binary format
-%> @arg Wire TXT format
-%> @arg Wire (2016) TXT format (dubbed "Mary")
+%> <b>File type</b> - Currently supported types are: see get_spfile_prefixes.m and get_spfile_descriptions.m
 %>
 %> <b>File filter</b> - wildcard filter. Examples: <code>*.*</code>; <code>*.dat</code>; <code>*.DAT</code>
 %>
@@ -69,6 +65,7 @@ setup_load();
 path_assert();
 global PATH;
 set(handles.editPath, 'String', PATH.data_spectra);
+set(handles.popupmenu_type, 'String', get_spfile_descriptions());
 guidata(hObject, handles); % Update handles structure
 gui_set_position(hObject);
 check_hsc();
@@ -113,7 +110,7 @@ add_log([repmat(' ', 1, idx2-1), msg]);
 % Returns a stru with .filetype, .wild, .trimdot, .flag_image, .height
 function stru = get_window_settings()
 handles = find_handles();
-stypes = {'pir', 'opus', 'wire', 'mary'};
+stypes = get_spfile_prefixes();
 try
     stru.filetype = stypes{get(handles.popupmenu_type, 'value')};
     stru.wild = get_wild();
@@ -302,7 +299,7 @@ function pushbutton_detect_Callback(hObject, eventdata, handles)
 s = detect_spectrum_type(get_wild());
 if ~isempty(s)
     handles = find_handles();
-    i_type = find(strcmp(s, {'pir', 'opus', 'wire', 'mary'}));
+    i_type = find(strcmp(s, get_spfile_prefixes()));
     set(handles.popupmenu_type, 'Value', i_type);
     add_log(sprintf('Detected file type: "%s"', s));
 else
