@@ -6,7 +6,7 @@
 %> @sa mergetool.m
 
 %> @param wild
-%> @return String. Possible outcomes are [], 'pir', 'opus', 'wire'
+%> @return String. Possible outcomes are [], 'pir', 'opus', 'wire', 'mary', 'diane'
 function s = detect_spectrum_type(wild)
 s = [];
 % Extracts first file name
@@ -20,7 +20,7 @@ end;
 
 wild_new = fullfile(fileparts(wild), filenames{1});
 
-totry = {'pir', 'opus', 'wire', 'mary'};
+totry = {'pir', 'opus', 'wire', 'mary', 'diane'};
 
 for it = 1:numel(totry)
     flag_ok = 0;
