@@ -1,6 +1,6 @@
 %>@ingroup ioio
 %>@file
-%> @brief Merges several "Wire 2016 txt" files into a dataset
+%> @brief Merges several "Diane's new FTIR" files into a dataset
 %>
 %> @c data.groupcodes is made from file name. File name is trimmed at the trimdot-th dot counted from right to left. E.g., 
 %> This allows one to trim "sample.0.dat" at the penultimate dot (ignodedoctount=2) or "sample.dat" at the last dot

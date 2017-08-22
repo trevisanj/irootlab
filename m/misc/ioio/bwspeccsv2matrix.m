@@ -99,5 +99,9 @@ else
         irerror(sprintf('bwspeccsv2matrix: number of data points found: i=%d; should be nf=%d', i, nf));
     end;
 end;
+
+% Reverses x-axis to keep the descending wavenumber standard
+M = flipud(M);
+
     
 fclose(h);

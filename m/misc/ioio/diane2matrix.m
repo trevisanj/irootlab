@@ -12,9 +12,11 @@ startRow = 6;
 formatSpec = '%f%f%[^\n\r]';
 
 h = fopen(filename, 'r');
-dataArray = textscan(h, formatSpec, 'Delimiter', delimiter, 'HeaderLines' ,startRow-1, 'ReturnOnError', false);
+dataArray = textscan(h, formatSpec, 'Delimiter', delimiter, 'HeaderLines' ,startRow-1, 'ReturnOnError', true);
 fclose(h);
 
 M = cell2mat(dataArray(1:2));
     
-    
+if any(size(M) == 0)
+    irerror('Invalid file type or no data');
+end;
